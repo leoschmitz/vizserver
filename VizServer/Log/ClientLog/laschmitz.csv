@@ -1,0 +1,1277 @@
+2010-02-23T15:34:04; Saiu; 1; Autenticação ok; 8
+2010-02-23T15:34:04; Entrou; 1; Autenticando; 94
+2010-02-23T15:34:04; Saiu; 3; Sessão; 8
+2010-02-23T15:34:04; Entrou; 2; Requisição de sessão; 4
+2010-02-23T15:34:04; Saiu; 6; Aguardando sessão; 8
+2010-02-23T15:34:04; Entrou; 1000; Id da Sessão; 104
+2010-02-23T15:34:04; Saiu; 4; Sessão autenticada; 8
+2010-02-23T15:34:04; Saiu; 7; Versão do protocolo; 22
+2010-02-23T15:34:31; Saiu; 300; Lista de ativos; 1020528
+2010-02-23T15:34:33; Entrou; 300; Requisição de lista de ativos; 4
+2010-02-23T15:47:25; Saiu; 1; Autenticação ok; 8
+2010-02-23T15:47:25; Entrou; 1; Autenticando; 94
+2010-02-23T15:47:25; Saiu; 3; Sessão; 8
+2010-02-23T15:47:25; Entrou; 2; Requisição de sessão; 4
+2010-02-23T15:47:25; Saiu; 6; Aguardando sessão; 8
+2010-02-23T15:47:25; Entrou; 1000; Id da Sessão; 104
+2010-02-23T16:00:16; Saiu; 1; Autenticação ok; 8
+2010-02-23T16:00:16; Entrou; 1; Autenticando; 94
+2010-02-23T16:00:16; Saiu; 3; Sessão; 8
+2010-02-23T16:00:16; Entrou; 2; Requisição de sessão; 4
+2010-02-23T16:00:16; Saiu; 6; Aguardando sessão; 8
+2010-02-23T16:00:16; Entrou; 1000; Id da Sessão; 104
+2010-02-23T16:00:16; Saiu; 4; Sessão autenticada; 8
+2010-02-23T16:00:16; Saiu; 7; Versão do protocolo; 22
+2010-02-23T16:00:16; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T16:00:16; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T16:00:26; Saiu; 100; Ativo completo; 105067
+2010-02-23T16:00:26; Entrou; 100; Requisição de ativo; 18
+2010-02-23T16:09:10; Saiu; 1; Autenticação ok; 8
+2010-02-23T16:09:10; Entrou; 1; Autenticando; 94
+2010-02-23T16:09:10; Saiu; 3; Sessão; 8
+2010-02-23T16:09:10; Entrou; 2; Requisição de sessão; 4
+2010-02-23T16:09:11; Saiu; 6; Aguardando sessão; 8
+2010-02-23T16:09:11; Entrou; 1000; Id da Sessão; 104
+2010-02-23T16:09:11; Saiu; 4; Sessão autenticada; 8
+2010-02-23T16:09:11; Saiu; 7; Versão do protocolo; 22
+2010-02-23T16:09:11; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T16:09:11; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T16:10:13; Saiu; 100; Ativo completo; 344843
+2010-02-23T16:10:13; Entrou; 100; Requisição de ativo; 18
+2010-02-23T16:54:50; Saiu; 1; Autenticação ok; 8
+2010-02-23T16:54:50; Entrou; 1; Autenticando; 94
+2010-02-23T16:54:50; Saiu; 3; Sessão; 8
+2010-02-23T16:54:50; Entrou; 2; Requisição de sessão; 4
+2010-02-23T16:54:51; Saiu; 6; Aguardando sessão; 8
+2010-02-23T16:54:51; Entrou; 1000; Id da Sessão; 104
+2010-02-23T16:54:51; Saiu; 4; Sessão autenticada; 8
+2010-02-23T16:54:51; Saiu; 7; Versão do protocolo; 22
+2010-02-23T16:55:15; Saiu; 300; Lista de ativos; 1020528
+2010-02-23T16:55:17; Entrou; 300; Requisição de lista de ativos; 4
+2010-02-23T16:58:05; Saiu; 100; Ativo completo; 512219
+2010-02-23T16:58:05; Entrou; 100; Requisição de ativo; 18
+2010-02-23T16:58:53; Saiu; 1; Autenticação ok; 8
+2010-02-23T16:58:53; Entrou; 1; Autenticando; 94
+2010-02-23T16:58:53; Saiu; 3; Sessão; 8
+2010-02-23T16:58:53; Entrou; 2; Requisição de sessão; 4
+2010-02-23T16:58:53; Saiu; 6; Aguardando sessão; 8
+2010-02-23T16:58:53; Entrou; 1000; Id da Sessão; 104
+2010-02-23T16:58:53; Saiu; 4; Sessão autenticada; 8
+2010-02-23T16:58:53; Saiu; 7; Versão do protocolo; 22
+2010-02-23T16:58:53; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T16:58:53; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T16:59:05; Saiu; 108; ; 359
+2010-02-23T16:59:05; Entrou; 100; Requisição de ativo; 18
+2010-02-23T16:59:35; Saiu; 100; Ativo completo; 4665
+2010-02-23T16:59:35; Entrou; 100; Requisição de ativo; 18
+2010-02-23T17:00:45; Saiu; 100; Ativo completo; 344843
+2010-02-23T17:00:45; Entrou; 100; Requisição de ativo; 18
+2010-02-23T17:08:55; Saiu; 1; Autenticação ok; 8
+2010-02-23T17:08:55; Entrou; 1; Autenticando; 94
+2010-02-23T17:08:55; Saiu; 3; Sessão; 8
+2010-02-23T17:08:55; Entrou; 2; Requisição de sessão; 4
+2010-02-23T17:08:55; Saiu; 6; Aguardando sessão; 8
+2010-02-23T17:08:55; Entrou; 1000; Id da Sessão; 104
+2010-02-23T17:08:55; Saiu; 4; Sessão autenticada; 8
+2010-02-23T17:08:55; Saiu; 7; Versão do protocolo; 22
+2010-02-23T17:08:56; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T17:08:56; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T17:09:35; Saiu; 100; Ativo completo; 344843
+2010-02-23T17:09:35; Entrou; 100; Requisição de ativo; 18
+2010-02-23T17:20:48; Saiu; 1; Autenticação ok; 8
+2010-02-23T17:20:48; Entrou; 1; Autenticando; 94
+2010-02-23T17:20:48; Saiu; 3; Sessão; 8
+2010-02-23T17:20:48; Entrou; 2; Requisição de sessão; 4
+2010-02-23T17:20:48; Saiu; 6; Aguardando sessão; 8
+2010-02-23T17:20:48; Entrou; 1000; Id da Sessão; 104
+2010-02-23T17:20:48; Saiu; 4; Sessão autenticada; 8
+2010-02-23T17:20:48; Saiu; 7; Versão do protocolo; 22
+2010-02-23T17:20:48; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T17:20:48; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T17:21:00; Saiu; 100; Ativo completo; 344807
+2010-02-23T17:21:00; Entrou; 100; Requisição de ativo; 18
+2010-02-23T17:29:00; Saiu; 1; Autenticação ok; 8
+2010-02-23T17:29:00; Entrou; 1; Autenticando; 94
+2010-02-23T17:29:00; Saiu; 3; Sessão; 8
+2010-02-23T17:29:00; Entrou; 2; Requisição de sessão; 4
+2010-02-23T17:29:00; Saiu; 6; Aguardando sessão; 8
+2010-02-23T17:29:00; Entrou; 1000; Id da Sessão; 104
+2010-02-23T17:29:00; Saiu; 4; Sessão autenticada; 8
+2010-02-23T17:29:00; Saiu; 7; Versão do protocolo; 22
+2010-02-23T17:29:01; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T17:29:01; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T17:29:27; Saiu; 100; Ativo completo; 25357
+2010-02-23T17:29:27; Entrou; 100; Requisição de ativo; 18
+2010-02-23T17:29:50; Saiu; 100; Ativo completo; 328037
+2010-02-23T17:29:50; Entrou; 100; Requisição de ativo; 18
+2010-02-23T19:53:29; Saiu; 1; Autenticação ok; 8
+2010-02-23T19:53:29; Entrou; 1; Autenticando; 94
+2010-02-23T19:53:29; Saiu; 3; Sessão; 8
+2010-02-23T19:53:29; Entrou; 2; Requisição de sessão; 4
+2010-02-23T19:53:30; Saiu; 6; Aguardando sessão; 8
+2010-02-23T19:53:30; Entrou; 1000; Id da Sessão; 104
+2010-02-23T19:53:30; Saiu; 4; Sessão autenticada; 8
+2010-02-23T19:53:30; Saiu; 7; Versão do protocolo; 22
+2010-02-23T19:53:30; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T19:53:30; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T19:53:44; Saiu; 1; Autenticação ok; 8
+2010-02-23T19:53:44; Entrou; 1; Autenticando; 94
+2010-02-23T19:53:44; Saiu; 3; Sessão; 8
+2010-02-23T19:53:44; Entrou; 2; Requisição de sessão; 4
+2010-02-23T19:53:44; Saiu; 6; Aguardando sessão; 8
+2010-02-23T19:53:44; Entrou; 1000; Id da Sessão; 104
+2010-02-23T19:53:44; Saiu; 4; Sessão autenticada; 8
+2010-02-23T19:53:44; Saiu; 7; Versão do protocolo; 22
+2010-02-23T19:53:44; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T19:53:44; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:13:41; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:13:41; Entrou; 1; Autenticando; 94
+2010-02-23T20:13:41; Saiu; 3; Sessão; 8
+2010-02-23T20:13:41; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:13:42; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:13:42; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:13:42; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:13:42; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:13:42; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T20:13:42; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:19:53; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:19:53; Entrou; 1; Autenticando; 94
+2010-02-23T20:19:53; Saiu; 3; Sessão; 8
+2010-02-23T20:19:53; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:19:53; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:19:53; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:19:53; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:19:53; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:31:25; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:31:25; Entrou; 1; Autenticando; 94
+2010-02-23T20:31:25; Saiu; 3; Sessão; 8
+2010-02-23T20:31:25; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:31:25; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:31:25; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:31:25; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:31:25; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:31:25; Entrou; 0; ; 0
+2010-02-23T20:33:10; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:33:10; Entrou; 1; Autenticando; 94
+2010-02-23T20:33:10; Saiu; 3; Sessão; 8
+2010-02-23T20:33:10; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:33:10; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:33:10; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:33:10; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:33:10; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:36:01; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:36:01; Entrou; 1; Autenticando; 94
+2010-02-23T20:36:01; Saiu; 3; Sessão; 8
+2010-02-23T20:36:01; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:36:01; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:36:01; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:38:37; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:38:37; Entrou; 1; Autenticando; 94
+2010-02-23T20:38:37; Saiu; 3; Sessão; 8
+2010-02-23T20:38:37; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:38:37; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:38:37; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:38:37; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:38:37; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:39:01; Saiu; 300; Lista de ativos; 1020528
+2010-02-23T20:39:03; Entrou; 300; Requisição de lista de ativos; 4
+2010-02-23T20:39:26; Saiu; 100; Ativo completo; 14793
+2010-02-23T20:39:26; Entrou; 100; Requisição de ativo; 22
+2010-02-23T20:42:20; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:42:20; Entrou; 1; Autenticando; 94
+2010-02-23T20:42:20; Saiu; 3; Sessão; 8
+2010-02-23T20:42:20; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:42:20; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:42:20; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:42:20; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:42:20; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:42:20; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T20:42:20; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:42:47; Saiu; 100; Ativo completo; 512219
+2010-02-23T20:42:47; Entrou; 100; Requisição de ativo; 18
+2010-02-23T20:42:49; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:42:49; Entrou; 1; Autenticando; 94
+2010-02-23T20:42:49; Saiu; 3; Sessão; 8
+2010-02-23T20:42:49; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:42:49; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:42:49; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:42:49; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:42:49; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:42:49; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T20:42:49; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:43:03; Saiu; 100; Ativo completo; 512219
+2010-02-23T20:43:03; Entrou; 100; Requisição de ativo; 18
+2010-02-23T20:45:13; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:45:13; Entrou; 1; Autenticando; 94
+2010-02-23T20:45:13; Saiu; 3; Sessão; 8
+2010-02-23T20:45:13; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:45:13; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:45:13; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:45:13; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:45:13; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:45:13; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T20:45:13; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:45:18; Saiu; 100; Ativo completo; 105075
+2010-02-23T20:45:18; Entrou; 100; Requisição de ativo; 18
+2010-02-23T20:50:16; Saiu; 1; Autenticação ok; 8
+2010-02-23T20:50:16; Entrou; 1; Autenticando; 94
+2010-02-23T20:50:16; Saiu; 3; Sessão; 8
+2010-02-23T20:50:16; Entrou; 2; Requisição de sessão; 4
+2010-02-23T20:50:16; Saiu; 6; Aguardando sessão; 8
+2010-02-23T20:50:17; Entrou; 1000; Id da Sessão; 104
+2010-02-23T20:50:17; Saiu; 4; Sessão autenticada; 8
+2010-02-23T20:50:17; Saiu; 7; Versão do protocolo; 22
+2010-02-23T20:50:17; Saiu; 302; Lista de ativos em dia; 8
+2010-02-23T20:50:17; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-23T20:50:26; Saiu; 100; Ativo completo; 171057
+2010-02-23T20:50:27; Entrou; 100; Requisição de ativo; 18
+2010-02-24T13:07:22; Saiu; 1; Autenticação ok; 8
+2010-02-24T13:07:22; Entrou; 1; Autenticando; 94
+2010-02-24T13:07:22; Saiu; 3; Sessão; 8
+2010-02-24T13:07:22; Entrou; 2; Requisição de sessão; 4
+2010-02-24T13:07:22; Saiu; 6; Aguardando sessão; 8
+2010-02-24T13:07:22; Entrou; 1000; Id da Sessão; 104
+2010-02-24T13:07:22; Saiu; 4; Sessão autenticada; 8
+2010-02-24T13:07:22; Saiu; 7; Versão do protocolo; 22
+2010-02-24T13:07:23; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T13:07:23; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T13:07:29; Saiu; 100; Ativo completo; 149125
+2010-02-24T13:07:29; Entrou; 100; Requisição de ativo; 18
+2010-02-24T13:07:58; Saiu; 100; Ativo completo; 190871
+2010-02-24T13:07:58; Entrou; 100; Requisição de ativo; 20
+2010-02-24T15:34:24; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:34:24; Entrou; 1; Autenticando; 94
+2010-02-24T15:34:24; Saiu; 3; Sessão; 8
+2010-02-24T15:34:24; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:34:24; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:34:24; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:34:24; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:34:24; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:34:24; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:34:24; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:34:53; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:34:53; Entrou; 1; Autenticando; 94
+2010-02-24T15:34:53; Saiu; 3; Sessão; 8
+2010-02-24T15:34:53; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:34:53; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:34:54; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:34:54; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:34:54; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:34:54; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:34:54; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:34:57; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:34:57; Entrou; 1; Autenticando; 94
+2010-02-24T15:34:57; Saiu; 3; Sessão; 8
+2010-02-24T15:34:57; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:34:57; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:34:58; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:34:58; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:34:58; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:34:58; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:34:58; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:35:00; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:35:00; Entrou; 1; Autenticando; 94
+2010-02-24T15:35:00; Saiu; 3; Sessão; 8
+2010-02-24T15:35:00; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:35:00; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:35:00; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:35:00; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:35:00; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:35:01; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:35:01; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:47:41; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:47:41; Entrou; 1; Autenticando; 94
+2010-02-24T15:47:41; Saiu; 3; Sessão; 8
+2010-02-24T15:47:41; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:47:41; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:47:41; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:47:41; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:47:41; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:47:42; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:47:42; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:47:47; Saiu; 100; Ativo completo; 26689
+2010-02-24T15:47:47; Entrou; 100; Requisição de ativo; 20
+2010-02-24T15:53:39; Saiu; 1; Autenticação ok; 8
+2010-02-24T15:53:39; Entrou; 1; Autenticando; 94
+2010-02-24T15:53:39; Saiu; 3; Sessão; 8
+2010-02-24T15:53:39; Entrou; 2; Requisição de sessão; 4
+2010-02-24T15:53:39; Saiu; 6; Aguardando sessão; 8
+2010-02-24T15:53:39; Entrou; 1000; Id da Sessão; 104
+2010-02-24T15:53:39; Saiu; 4; Sessão autenticada; 8
+2010-02-24T15:53:39; Saiu; 7; Versão do protocolo; 22
+2010-02-24T15:53:40; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T15:53:40; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T15:54:10; Saiu; 100; Ativo completo; 26689
+2010-02-24T15:54:10; Entrou; 100; Requisição de ativo; 20
+2010-02-24T16:05:59; Saiu; 1; Autenticação ok; 8
+2010-02-24T16:05:59; Entrou; 1; Autenticando; 94
+2010-02-24T16:05:59; Saiu; 3; Sessão; 8
+2010-02-24T16:05:59; Entrou; 2; Requisição de sessão; 4
+2010-02-24T16:05:59; Saiu; 6; Aguardando sessão; 8
+2010-02-24T16:05:59; Entrou; 1000; Id da Sessão; 104
+2010-02-24T16:05:59; Saiu; 4; Sessão autenticada; 8
+2010-02-24T16:05:59; Saiu; 7; Versão do protocolo; 22
+2010-02-24T16:06:00; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T16:06:00; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T16:06:04; Saiu; 100; Ativo completo; 26689
+2010-02-24T16:06:04; Entrou; 100; Requisição de ativo; 20
+2010-02-24T16:07:30; Saiu; 1; Autenticação ok; 8
+2010-02-24T16:07:30; Entrou; 1; Autenticando; 94
+2010-02-24T16:07:30; Saiu; 3; Sessão; 8
+2010-02-24T16:07:30; Entrou; 2; Requisição de sessão; 4
+2010-02-24T16:07:30; Saiu; 6; Aguardando sessão; 8
+2010-02-24T16:07:30; Entrou; 1000; Id da Sessão; 104
+2010-02-24T16:07:30; Saiu; 4; Sessão autenticada; 8
+2010-02-24T16:07:30; Saiu; 7; Versão do protocolo; 22
+2010-02-24T16:07:30; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T16:07:30; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T16:07:40; Saiu; 100; Ativo completo; 26689
+2010-02-24T16:07:40; Entrou; 100; Requisição de ativo; 20
+2010-02-24T16:12:04; Saiu; 1; Autenticação ok; 8
+2010-02-24T16:12:04; Entrou; 1; Autenticando; 94
+2010-02-24T16:12:04; Saiu; 3; Sessão; 8
+2010-02-24T16:12:04; Entrou; 2; Requisição de sessão; 4
+2010-02-24T16:12:04; Saiu; 6; Aguardando sessão; 8
+2010-02-24T16:12:04; Entrou; 1000; Id da Sessão; 104
+2010-02-24T16:12:04; Saiu; 4; Sessão autenticada; 8
+2010-02-24T16:12:04; Saiu; 7; Versão do protocolo; 22
+2010-02-24T16:12:04; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T16:12:04; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T16:12:12; Saiu; 100; Ativo completo; 26689
+2010-02-24T16:12:13; Entrou; 100; Requisição de ativo; 20
+2010-02-24T16:33:48; Saiu; 1; Autenticação ok; 8
+2010-02-24T16:33:48; Entrou; 1; Autenticando; 94
+2010-02-24T16:33:48; Saiu; 3; Sessão; 8
+2010-02-24T16:33:48; Entrou; 2; Requisição de sessão; 4
+2010-02-24T16:33:48; Saiu; 6; Aguardando sessão; 8
+2010-02-24T16:33:48; Entrou; 1000; Id da Sessão; 104
+2010-02-24T16:33:48; Saiu; 4; Sessão autenticada; 8
+2010-02-24T16:33:48; Saiu; 7; Versão do protocolo; 22
+2010-02-24T16:33:48; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T16:33:48; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T16:34:04; Saiu; 100; Ativo completo; 149125
+2010-02-24T16:34:04; Entrou; 100; Requisição de ativo; 18
+2010-02-24T17:33:02; Saiu; 1; Autenticação ok; 8
+2010-02-24T17:33:02; Entrou; 1; Autenticando; 94
+2010-02-24T17:33:02; Saiu; 3; Sessão; 8
+2010-02-24T17:33:02; Entrou; 2; Requisição de sessão; 4
+2010-02-24T17:33:02; Saiu; 6; Aguardando sessão; 8
+2010-02-24T17:33:02; Entrou; 1000; Id da Sessão; 104
+2010-02-24T17:33:02; Saiu; 4; Sessão autenticada; 8
+2010-02-24T17:33:02; Saiu; 7; Versão do protocolo; 22
+2010-02-24T17:33:02; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T17:33:02; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T17:33:22; Saiu; 100; Ativo completo; 65035
+2010-02-24T17:33:22; Entrou; 100; Requisição de ativo; 20
+2010-02-24T17:38:20; Saiu; 1; Autenticação ok; 8
+2010-02-24T17:38:20; Entrou; 1; Autenticando; 94
+2010-02-24T17:38:20; Saiu; 3; Sessão; 8
+2010-02-24T17:38:20; Entrou; 2; Requisição de sessão; 4
+2010-02-24T17:38:21; Saiu; 6; Aguardando sessão; 8
+2010-02-24T17:38:21; Entrou; 1000; Id da Sessão; 104
+2010-02-24T17:38:21; Saiu; 4; Sessão autenticada; 8
+2010-02-24T17:38:21; Saiu; 7; Versão do protocolo; 22
+2010-02-24T17:38:38; Saiu; 300; Lista de ativos; 1020528
+2010-02-24T17:38:40; Entrou; 300; Requisição de lista de ativos; 4
+2010-02-24T18:26:04; Saiu; 1; Autenticação ok; 8
+2010-02-24T18:26:04; Entrou; 1; Autenticando; 94
+2010-02-24T18:26:04; Saiu; 3; Sessão; 8
+2010-02-24T18:26:04; Entrou; 2; Requisição de sessão; 4
+2010-02-24T18:26:04; Saiu; 6; Aguardando sessão; 8
+2010-02-24T18:26:04; Entrou; 1000; Id da Sessão; 104
+2010-02-24T18:26:04; Saiu; 4; Sessão autenticada; 8
+2010-02-24T18:26:04; Saiu; 7; Versão do protocolo; 22
+2010-02-24T18:26:04; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T18:26:04; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T18:26:18; Saiu; 100; Ativo completo; 512219
+2010-02-24T18:26:18; Entrou; 100; Requisição de ativo; 18
+2010-02-24T18:26:41; Saiu; 100; Ativo completo; 344807
+2010-02-24T18:26:41; Entrou; 100; Requisição de ativo; 18
+2010-02-24T18:26:41; Saiu; 108; ; 453
+2010-02-24T18:26:41; Entrou; 100; Requisição de ativo; 20
+2010-02-24T18:26:57; Saiu; 108; ; 405
+2010-02-24T18:26:57; Entrou; 100; Requisição de ativo; 20
+2010-02-24T18:27:00; Saiu; 100; Ativo completo; 193105
+2010-02-24T18:27:00; Entrou; 100; Requisição de ativo; 20
+2010-02-24T20:19:40; Saiu; 1; Autenticação ok; 8
+2010-02-24T20:19:40; Entrou; 1; Autenticando; 94
+2010-02-24T20:19:40; Saiu; 3; Sessão; 8
+2010-02-24T20:19:40; Entrou; 2; Requisição de sessão; 4
+2010-02-24T20:19:40; Saiu; 6; Aguardando sessão; 8
+2010-02-24T20:19:40; Entrou; 1000; Id da Sessão; 104
+2010-02-24T20:19:40; Saiu; 4; Sessão autenticada; 8
+2010-02-24T20:19:40; Saiu; 7; Versão do protocolo; 22
+2010-02-24T20:19:40; Saiu; 302; Lista de ativos em dia; 8
+2010-02-24T20:19:40; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-24T20:19:52; Saiu; 100; Ativo completo; 1317
+2010-02-24T20:19:52; Entrou; 100; Requisição de ativo; 18
+2010-02-24T20:20:08; Saiu; 100; Ativo completo; 11243
+2010-02-24T20:20:08; Entrou; 100; Requisição de ativo; 18
+2010-02-25T10:05:13; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:05:13; Entrou; 1; Autenticando; 94
+2010-02-25T10:05:13; Saiu; 3; Sessão; 8
+2010-02-25T10:05:13; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:05:14; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:05:14; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:07:16; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:07:16; Entrou; 1; Autenticando; 94
+2010-02-25T10:07:16; Saiu; 3; Sessão; 8
+2010-02-25T10:07:16; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:07:16; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:07:16; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:09:47; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:09:47; Entrou; 1; Autenticando; 94
+2010-02-25T10:09:47; Saiu; 3; Sessão; 8
+2010-02-25T10:09:47; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:09:47; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:09:47; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:16:25; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:16:25; Entrou; 1; Autenticando; 94
+2010-02-25T10:16:25; Saiu; 3; Sessão; 8
+2010-02-25T10:16:25; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:16:25; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:16:25; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:17:16; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:17:16; Entrou; 1; Autenticando; 94
+2010-02-25T10:17:16; Saiu; 3; Sessão; 8
+2010-02-25T10:17:16; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:17:16; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:17:16; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:18:00; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:18:00; Entrou; 1; Autenticando; 94
+2010-02-25T10:18:00; Saiu; 3; Sessão; 8
+2010-02-25T10:18:00; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:18:00; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:18:00; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:44:21; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:44:21; Entrou; 1; Autenticando; 94
+2010-02-25T10:44:21; Saiu; 3; Sessão; 8
+2010-02-25T10:44:21; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:44:21; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:44:21; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:44:21; Saiu; 4; Sessão autenticada; 8
+2010-02-25T10:44:21; Saiu; 7; Versão do protocolo; 22
+2010-02-25T10:44:21; Saiu; 302; Lista de ativos em dia; 8
+2010-02-25T10:44:21; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-25T10:53:56; Saiu; 1; Autenticação ok; 8
+2010-02-25T10:53:56; Entrou; 1; Autenticando; 94
+2010-02-25T10:53:56; Saiu; 3; Sessão; 8
+2010-02-25T10:53:56; Entrou; 2; Requisição de sessão; 4
+2010-02-25T10:53:56; Saiu; 6; Aguardando sessão; 8
+2010-02-25T10:53:56; Entrou; 1000; Id da Sessão; 104
+2010-02-25T10:53:56; Saiu; 4; Sessão autenticada; 8
+2010-02-25T10:53:56; Saiu; 7; Versão do protocolo; 22
+2010-02-25T10:53:58; Saiu; 302; Lista de ativos em dia; 8
+2010-02-25T10:53:58; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-25T11:13:02; Saiu; 1; Autenticação ok; 8
+2010-02-25T11:13:02; Entrou; 1; Autenticando; 94
+2010-02-25T11:13:02; Saiu; 3; Sessão; 8
+2010-02-25T11:13:02; Entrou; 2; Requisição de sessão; 4
+2010-02-25T11:13:02; Saiu; 6; Aguardando sessão; 8
+2010-02-25T11:13:02; Entrou; 1000; Id da Sessão; 104
+2010-02-25T11:13:02; Saiu; 4; Sessão autenticada; 8
+2010-02-25T11:13:02; Saiu; 7; Versão do protocolo; 22
+2010-02-25T11:13:03; Saiu; 302; Lista de ativos em dia; 8
+2010-02-25T11:13:03; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-25T11:16:31; Saiu; 1; Autenticação ok; 8
+2010-02-25T11:16:31; Entrou; 1; Autenticando; 94
+2010-02-25T11:16:31; Saiu; 3; Sessão; 8
+2010-02-25T11:16:31; Entrou; 2; Requisição de sessão; 4
+2010-02-25T11:16:32; Saiu; 6; Aguardando sessão; 8
+2010-02-25T11:16:32; Entrou; 1000; Id da Sessão; 104
+2010-02-25T11:16:32; Saiu; 4; Sessão autenticada; 8
+2010-02-25T11:16:32; Saiu; 7; Versão do protocolo; 22
+2010-02-25T11:16:32; Saiu; 302; Lista de ativos em dia; 8
+2010-02-25T11:16:32; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-25T11:16:44; Saiu; 100; Ativo completo; 8425
+2010-02-25T11:16:44; Entrou; 100; Requisição de ativo; 18
+2010-02-25T11:26:44; Saiu; 1; Autenticação ok; 8
+2010-02-25T11:26:44; Entrou; 1; Autenticando; 94
+2010-02-25T11:26:44; Saiu; 3; Sessão; 8
+2010-02-25T11:26:44; Entrou; 2; Requisição de sessão; 4
+2010-02-25T11:26:44; Saiu; 6; Aguardando sessão; 8
+2010-02-25T11:26:44; Entrou; 1000; Id da Sessão; 104
+2010-02-25T11:26:44; Saiu; 4; Sessão autenticada; 8
+2010-02-25T11:26:44; Saiu; 7; Versão do protocolo; 22
+2010-02-25T11:26:45; Saiu; 302; Lista de ativos em dia; 8
+2010-02-25T11:26:45; Entrou; 301; Atualização de lista de ativos; 8
+2010-02-25T11:26:57; Saiu; 100; Ativo completo; 314049
+2010-02-25T11:26:57; Entrou; 100; Requisição de ativo; 18
+2010-03-03T19:36:59; Saiu; 1; Autenticação ok; 8
+2010-03-03T19:36:59; Entrou; 1; Autenticando; 94
+2010-03-03T19:36:59; Saiu; 3; Sessão; 8
+2010-03-03T19:36:59; Entrou; 2; Requisição de sessão; 4
+2010-03-03T19:36:59; Saiu; 6; Aguardando sessão; 8
+2010-03-03T19:36:59; Entrou; 1000; Id da Sessão; 104
+2010-03-03T19:36:59; Saiu; 4; Sessão autenticada; 8
+2010-03-03T19:36:59; Saiu; 7; Versão do protocolo; 22
+2010-03-03T19:37:00; Saiu; 302; Lista de ativos em dia; 8
+2010-03-03T19:37:00; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-03T19:37:12; Saiu; 100; Ativo completo; 14217
+2010-03-03T19:37:12; Entrou; 100; Requisição de ativo; 20
+2010-03-08T23:49:14; Saiu; 1; Autenticação ok; 8
+2010-03-08T23:49:14; Entrou; 1; Autenticando; 94
+2010-03-08T23:49:14; Saiu; 3; Sessão; 8
+2010-03-08T23:49:14; Entrou; 2; Requisição de sessão; 4
+2010-03-08T23:49:14; Saiu; 6; Aguardando sessão; 8
+2010-03-08T23:49:14; Entrou; 1000; Id da Sessão; 104
+2010-03-08T23:49:14; Saiu; 4; Sessão autenticada; 8
+2010-03-08T23:49:14; Saiu; 7; Versão do protocolo; 22
+2010-03-08T23:51:16; Saiu; 1; Autenticação ok; 8
+2010-03-08T23:51:16; Entrou; 1; Autenticando; 94
+2010-03-08T23:51:16; Saiu; 3; Sessão; 8
+2010-03-08T23:51:16; Entrou; 2; Requisição de sessão; 4
+2010-03-08T23:51:16; Saiu; 6; Aguardando sessão; 8
+2010-03-08T23:51:16; Entrou; 1000; Id da Sessão; 104
+2010-03-08T23:51:16; Saiu; 4; Sessão autenticada; 8
+2010-03-08T23:51:16; Saiu; 7; Versão do protocolo; 22
+2010-03-08T23:52:41; Saiu; 1; Autenticação ok; 8
+2010-03-08T23:52:41; Entrou; 1; Autenticando; 94
+2010-03-08T23:52:41; Saiu; 3; Sessão; 8
+2010-03-08T23:52:41; Entrou; 2; Requisição de sessão; 4
+2010-03-08T23:52:41; Saiu; 6; Aguardando sessão; 8
+2010-03-08T23:52:41; Entrou; 1000; Id da Sessão; 104
+2010-03-08T23:52:41; Saiu; 4; Sessão autenticada; 8
+2010-03-08T23:52:41; Saiu; 7; Versão do protocolo; 22
+2010-03-08T23:52:43; Saiu; 302; Lista de ativos em dia; 8
+2010-03-08T23:52:43; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-08T23:53:12; Saiu; 100; Ativo completo; 99403
+2010-03-08T23:53:12; Entrou; 100; Requisição de ativo; 18
+2010-03-08T23:53:32; Saiu; 1; Autenticação ok; 8
+2010-03-08T23:53:32; Entrou; 1; Autenticando; 94
+2010-03-08T23:53:32; Saiu; 3; Sessão; 8
+2010-03-08T23:53:32; Entrou; 2; Requisição de sessão; 4
+2010-03-08T23:53:32; Saiu; 6; Aguardando sessão; 8
+2010-03-08T23:53:32; Entrou; 1000; Id da Sessão; 104
+2010-03-08T23:53:32; Saiu; 4; Sessão autenticada; 8
+2010-03-08T23:53:32; Saiu; 7; Versão do protocolo; 22
+2010-03-08T23:53:33; Saiu; 302; Lista de ativos em dia; 8
+2010-03-08T23:53:33; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-08T23:54:06; Saiu; 100; Ativo completo; 412123
+2010-03-08T23:54:06; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:03:59; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:03:59; Entrou; 1; Autenticando; 94
+2010-03-09T00:03:59; Saiu; 3; Sessão; 8
+2010-03-09T00:03:59; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:03:59; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:03:59; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:03:59; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:03:59; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:03:59; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:03:59; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:04:11; Saiu; 100; Ativo completo; 4665
+2010-03-09T00:04:11; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:07:11; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:07:11; Entrou; 1; Autenticando; 94
+2010-03-09T00:07:11; Saiu; 3; Sessão; 8
+2010-03-09T00:07:11; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:07:11; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:07:11; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:07:11; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:07:11; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:07:11; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:07:11; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:07:26; Saiu; 100; Ativo completo; 38953
+2010-03-09T00:07:26; Entrou; 100; Requisição de ativo; 20
+2010-03-09T00:17:11; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:17:11; Entrou; 1; Autenticando; 94
+2010-03-09T00:17:11; Saiu; 3; Sessão; 8
+2010-03-09T00:17:11; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:17:12; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:17:12; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:17:12; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:17:12; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:17:12; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:17:12; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:17:32; Saiu; 100; Ativo completo; 512327
+2010-03-09T00:17:33; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:33:43; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:33:43; Entrou; 1; Autenticando; 94
+2010-03-09T00:33:43; Saiu; 3; Sessão; 8
+2010-03-09T00:33:43; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:33:43; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:33:43; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:33:43; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:33:43; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:33:43; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:33:43; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:33:51; Saiu; 108; ; 359
+2010-03-09T00:33:51; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:43:53; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:43:53; Entrou; 1; Autenticando; 94
+2010-03-09T00:43:53; Saiu; 3; Sessão; 8
+2010-03-09T00:43:53; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:43:53; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:43:53; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:43:53; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:43:53; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:43:53; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:43:53; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:44:41; Saiu; 108; ; 359
+2010-03-09T00:44:41; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:45:32; Saiu; 100; Ativo completo; 68791
+2010-03-09T00:45:32; Entrou; 100; Requisição de ativo; 20
+2010-03-09T00:46:14; Saiu; 100; Ativo completo; 511587
+2010-03-09T00:46:14; Entrou; 100; Requisição de ativo; 18
+2010-03-09T00:47:28; Saiu; 1; Autenticação ok; 8
+2010-03-09T00:47:28; Entrou; 1; Autenticando; 94
+2010-03-09T00:47:28; Saiu; 3; Sessão; 8
+2010-03-09T00:47:28; Entrou; 2; Requisição de sessão; 4
+2010-03-09T00:47:28; Saiu; 6; Aguardando sessão; 8
+2010-03-09T00:47:28; Entrou; 1000; Id da Sessão; 104
+2010-03-09T00:47:28; Saiu; 4; Sessão autenticada; 8
+2010-03-09T00:47:28; Saiu; 7; Versão do protocolo; 22
+2010-03-09T00:47:28; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T00:47:28; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T00:47:42; Saiu; 100; Ativo completo; 38953
+2010-03-09T00:47:42; Entrou; 100; Requisição de ativo; 20
+2010-03-09T09:51:38; Saiu; 1; Autenticação ok; 8
+2010-03-09T09:51:38; Entrou; 1; Autenticando; 94
+2010-03-09T09:51:38; Saiu; 3; Sessão; 8
+2010-03-09T09:51:38; Entrou; 2; Requisição de sessão; 4
+2010-03-09T09:51:38; Saiu; 6; Aguardando sessão; 8
+2010-03-09T09:51:38; Entrou; 1000; Id da Sessão; 104
+2010-03-09T09:51:38; Saiu; 4; Sessão autenticada; 8
+2010-03-09T09:51:38; Saiu; 7; Versão do protocolo; 22
+2010-03-09T09:51:38; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T09:51:38; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T09:51:54; Saiu; 100; Ativo completo; 48473
+2010-03-09T09:51:54; Entrou; 100; Requisição de ativo; 18
+2010-03-09T17:13:40; Saiu; 1; Autenticação ok; 8
+2010-03-09T17:13:40; Entrou; 1; Autenticando; 94
+2010-03-09T17:13:40; Saiu; 3; Sessão; 8
+2010-03-09T17:13:40; Entrou; 2; Requisição de sessão; 4
+2010-03-09T17:13:40; Saiu; 6; Aguardando sessão; 8
+2010-03-09T17:13:40; Entrou; 1000; Id da Sessão; 104
+2010-03-09T17:13:40; Saiu; 4; Sessão autenticada; 8
+2010-03-09T17:13:40; Saiu; 7; Versão do protocolo; 22
+2010-03-09T17:13:41; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T17:13:41; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T17:24:26; Saiu; 1; Autenticação ok; 8
+2010-03-09T17:24:26; Entrou; 1; Autenticando; 94
+2010-03-09T17:24:26; Saiu; 3; Sessão; 8
+2010-03-09T17:24:26; Entrou; 2; Requisição de sessão; 4
+2010-03-09T17:24:26; Saiu; 6; Aguardando sessão; 8
+2010-03-09T17:24:26; Entrou; 1000; Id da Sessão; 104
+2010-03-09T17:24:26; Saiu; 4; Sessão autenticada; 8
+2010-03-09T17:24:26; Saiu; 7; Versão do protocolo; 22
+2010-03-09T17:24:27; Saiu; 302; Lista de ativos em dia; 8
+2010-03-09T17:24:27; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-09T17:24:32; Saiu; 108; ; 359
+2010-03-09T17:24:32; Entrou; 100; Requisição de ativo; 18
+2010-03-09T17:24:41; Saiu; 100; Ativo completo; 13121
+2010-03-09T17:24:41; Entrou; 100; Requisição de ativo; 22
+2010-03-09T17:25:03; Saiu; 100; Ativo completo; 452335
+2010-03-09T17:25:03; Entrou; 100; Requisição de ativo; 18
+2010-03-09T17:29:40; Saiu; 1; Autenticação ok; 8
+2010-03-09T17:29:41; Entrou; 1; Autenticando; 94
+2010-03-09T17:29:41; Saiu; 3; Sessão; 8
+2010-03-09T17:29:41; Entrou; 2; Requisição de sessão; 4
+2010-03-09T17:29:41; Saiu; 6; Aguardando sessão; 8
+2010-03-09T17:29:41; Entrou; 1000; Id da Sessão; 104
+2010-03-09T17:29:41; Saiu; 4; Sessão autenticada; 8
+2010-03-09T17:29:41; Saiu; 7; Versão do protocolo; 22
+2010-03-09T17:30:03; Saiu; 300; Lista de ativos; 1020528
+2010-03-09T17:30:04; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-09T17:31:31; Saiu; 100; Ativo completo; 452335
+2010-03-09T17:31:32; Entrou; 100; Requisição de ativo; 18
+2010-03-09T17:31:57; Saiu; 100; Ativo completo; 451769
+2010-03-09T17:31:57; Entrou; 100; Requisição de ativo; 18
+2010-03-10T16:02:35; Saiu; 1; Autenticação ok; 8
+2010-03-10T16:02:35; Entrou; 1; Autenticando; 94
+2010-03-10T16:02:35; Saiu; 3; Sessão; 8
+2010-03-10T16:02:35; Entrou; 2; Requisição de sessão; 4
+2010-03-10T16:02:35; Saiu; 6; Aguardando sessão; 8
+2010-03-10T16:02:35; Entrou; 1000; Id da Sessão; 104
+2010-03-10T16:02:35; Saiu; 4; Sessão autenticada; 8
+2010-03-10T16:02:35; Saiu; 7; Versão do protocolo; 22
+2010-03-10T16:02:36; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T16:02:36; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-10T17:00:49; Saiu; 1; Autenticação ok; 8
+2010-03-10T17:00:49; Entrou; 1; Autenticando; 94
+2010-03-10T17:00:49; Saiu; 3; Sessão; 8
+2010-03-10T17:00:49; Entrou; 2; Requisição de sessão; 4
+2010-03-10T17:00:49; Saiu; 6; Aguardando sessão; 8
+2010-03-10T17:00:49; Entrou; 1000; Id da Sessão; 104
+2010-03-10T17:00:49; Saiu; 4; Sessão autenticada; 8
+2010-03-10T17:00:49; Saiu; 7; Versão do protocolo; 22
+2010-03-10T17:00:49; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T17:00:49; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-10T18:37:41; Saiu; 1; Autenticação ok; 8
+2010-03-10T18:37:41; Entrou; 1; Autenticando; 94
+2010-03-10T18:37:41; Saiu; 3; Sessão; 8
+2010-03-10T18:37:41; Entrou; 2; Requisição de sessão; 4
+2010-03-10T18:37:41; Saiu; 6; Aguardando sessão; 8
+2010-03-10T18:37:41; Entrou; 1000; Id da Sessão; 104
+2010-03-10T18:37:41; Saiu; 4; Sessão autenticada; 8
+2010-03-10T18:37:41; Saiu; 7; Versão do protocolo; 22
+2010-03-10T18:37:41; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T18:37:41; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-11T16:15:30; Saiu; 1; Autenticação ok; 8
+2010-03-11T16:15:30; Entrou; 1; Autenticando; 94
+2010-03-11T16:15:30; Saiu; 3; Sessão; 8
+2010-03-11T16:15:30; Entrou; 2; Requisição de sessão; 4
+2010-03-11T16:16:05; Saiu; 6; Aguardando sessão; 8
+2010-03-11T16:16:05; Entrou; 1000; Id da Sessão; 104
+2010-03-11T16:16:06; Saiu; 4; Sessão autenticada; 8
+2010-03-11T16:16:06; Saiu; 7; Versão do protocolo; 22
+2010-03-11T16:16:06; Saiu; 302; Lista de ativos em dia; 8
+2010-03-11T16:16:06; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-11T16:21:34; Saiu; 1; Autenticação ok; 8
+2010-03-11T16:21:34; Entrou; 1; Autenticando; 94
+2010-03-11T16:21:34; Saiu; 3; Sessão; 8
+2010-03-11T16:21:34; Entrou; 2; Requisição de sessão; 4
+2010-03-11T16:22:06; Saiu; 6; Aguardando sessão; 8
+2010-03-11T16:22:06; Entrou; 1000; Id da Sessão; 104
+2010-03-11T16:22:06; Saiu; 4; Sessão autenticada; 8
+2010-03-11T16:22:06; Saiu; 7; Versão do protocolo; 22
+2010-03-11T16:22:08; Saiu; 302; Lista de ativos em dia; 8
+2010-03-11T16:22:08; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-11T18:19:31; Saiu; 1; Autenticação ok; 8
+2010-03-11T18:19:31; Entrou; 1; Autenticando; 94
+2010-03-11T18:19:31; Saiu; 3; Sessão; 8
+2010-03-11T18:19:31; Entrou; 2; Requisição de sessão; 4
+2010-03-11T18:19:31; Saiu; 6; Aguardando sessão; 8
+2010-03-11T18:19:31; Entrou; 1000; Id da Sessão; 104
+2010-03-11T18:19:31; Saiu; 4; Sessão autenticada; 8
+2010-03-11T18:19:31; Saiu; 7; Versão do protocolo; 22
+2010-03-11T18:19:31; Saiu; 302; Lista de ativos em dia; 8
+2010-03-11T18:19:31; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-11T18:22:17; Saiu; 1; Autenticação ok; 8
+2010-03-11T18:22:17; Entrou; 1; Autenticando; 94
+2010-03-11T18:22:17; Saiu; 3; Sessão; 8
+2010-03-11T18:22:17; Entrou; 2; Requisição de sessão; 4
+2010-03-11T18:22:18; Saiu; 6; Aguardando sessão; 8
+2010-03-11T18:22:18; Entrou; 1000; Id da Sessão; 104
+2010-03-11T18:22:18; Saiu; 4; Sessão autenticada; 8
+2010-03-11T18:22:18; Saiu; 7; Versão do protocolo; 22
+2010-03-11T18:22:18; Saiu; 302; Lista de ativos em dia; 8
+2010-03-11T18:22:18; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T18:09:18; Saiu; 1; Autenticação ok; 8
+2010-03-15T18:09:18; Entrou; 1; Autenticando; 94
+2010-03-15T18:09:18; Saiu; 3; Sessão; 8
+2010-03-15T18:09:18; Entrou; 2; Requisição de sessão; 4
+2010-03-15T18:09:18; Saiu; 6; Aguardando sessão; 8
+2010-03-15T18:09:18; Entrou; 1000; Id da Sessão; 104
+2010-03-15T18:09:18; Saiu; 4; Sessão autenticada; 8
+2010-03-15T18:09:18; Saiu; 7; Versão do protocolo; 22
+2010-03-15T18:09:18; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T18:09:18; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T18:09:18; Saiu; 200; Ativo tempo-real; 133
+2010-03-15T18:09:18; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T18:11:22; Saiu; 1; Autenticação ok; 8
+2010-03-15T18:11:22; Entrou; 1; Autenticando; 94
+2010-03-15T18:11:22; Saiu; 3; Sessão; 8
+2010-03-15T18:11:22; Entrou; 2; Requisição de sessão; 4
+2010-03-15T18:11:23; Saiu; 6; Aguardando sessão; 8
+2010-03-15T18:11:23; Entrou; 1000; Id da Sessão; 104
+2010-03-15T18:11:23; Saiu; 4; Sessão autenticada; 8
+2010-03-15T18:11:23; Saiu; 7; Versão do protocolo; 22
+2010-03-15T18:11:24; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T18:11:24; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T18:11:24; Saiu; 200; Ativo tempo-real; 133
+2010-03-15T18:11:24; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T18:13:28; Saiu; 1; Autenticação ok; 8
+2010-03-15T18:13:28; Entrou; 1; Autenticando; 94
+2010-03-15T18:13:28; Saiu; 3; Sessão; 8
+2010-03-15T18:13:28; Entrou; 2; Requisição de sessão; 4
+2010-03-15T18:13:28; Saiu; 6; Aguardando sessão; 8
+2010-03-15T18:13:28; Entrou; 1000; Id da Sessão; 104
+2010-03-15T18:13:28; Saiu; 4; Sessão autenticada; 8
+2010-03-15T18:13:28; Saiu; 7; Versão do protocolo; 22
+2010-03-15T18:13:29; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T18:13:29; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T18:13:29; Saiu; 200; Ativo tempo-real; 133
+2010-03-15T18:13:29; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T18:16:16; Saiu; 1; Autenticação ok; 8
+2010-03-15T18:16:16; Entrou; 1; Autenticando; 94
+2010-03-15T18:16:16; Saiu; 3; Sessão; 8
+2010-03-15T18:16:16; Entrou; 2; Requisição de sessão; 4
+2010-03-15T18:16:16; Saiu; 6; Aguardando sessão; 8
+2010-03-15T18:16:16; Entrou; 1000; Id da Sessão; 104
+2010-03-15T18:16:16; Saiu; 4; Sessão autenticada; 8
+2010-03-15T18:16:16; Saiu; 7; Versão do protocolo; 22
+2010-03-15T18:16:16; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T18:16:16; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T18:16:16; Saiu; 200; Ativo tempo-real; 143
+2010-03-15T18:16:16; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T18:23:57; Saiu; 1; Autenticação ok; 8
+2010-03-15T18:23:57; Entrou; 1; Autenticando; 94
+2010-03-15T18:23:57; Saiu; 3; Sessão; 8
+2010-03-15T18:23:57; Entrou; 2; Requisição de sessão; 4
+2010-03-15T18:23:57; Saiu; 6; Aguardando sessão; 8
+2010-03-15T18:23:57; Entrou; 1000; Id da Sessão; 104
+2010-03-15T19:28:03; Saiu; 1; Autenticação ok; 8
+2010-03-15T19:28:03; Entrou; 1; Autenticando; 94
+2010-03-15T19:28:03; Saiu; 3; Sessão; 8
+2010-03-15T19:28:03; Entrou; 2; Requisição de sessão; 4
+2010-03-15T19:28:04; Saiu; 6; Aguardando sessão; 8
+2010-03-15T19:28:04; Entrou; 1000; Id da Sessão; 104
+2010-03-15T19:42:58; Saiu; 1; Autenticação ok; 8
+2010-03-15T19:42:58; Entrou; 1; Autenticando; 94
+2010-03-15T19:42:58; Saiu; 3; Sessão; 8
+2010-03-15T19:42:58; Entrou; 2; Requisição de sessão; 4
+2010-03-15T19:42:58; Saiu; 6; Aguardando sessão; 8
+2010-03-15T19:42:58; Entrou; 1000; Id da Sessão; 104
+2010-03-15T19:42:58; Saiu; 4; Sessão autenticada; 8
+2010-03-15T19:42:58; Saiu; 7; Versão do protocolo; 22
+2010-03-15T19:42:58; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T19:42:58; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T19:42:58; Saiu; 200; Ativo tempo-real; 143
+2010-03-15T19:42:58; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T19:53:42; Saiu; 1; Autenticação ok; 8
+2010-03-15T19:53:42; Entrou; 1; Autenticando; 94
+2010-03-15T19:53:42; Saiu; 3; Sessão; 8
+2010-03-15T19:53:42; Entrou; 2; Requisição de sessão; 4
+2010-03-15T19:53:42; Saiu; 6; Aguardando sessão; 8
+2010-03-15T19:53:42; Entrou; 1000; Id da Sessão; 104
+2010-03-15T20:11:44; Saiu; 1; Autenticação ok; 8
+2010-03-15T20:11:44; Entrou; 1; Autenticando; 94
+2010-03-15T20:11:44; Saiu; 3; Sessão; 8
+2010-03-15T20:11:44; Entrou; 2; Requisição de sessão; 4
+2010-03-15T20:11:44; Saiu; 6; Aguardando sessão; 8
+2010-03-15T20:11:44; Entrou; 1000; Id da Sessão; 104
+2010-03-15T20:11:44; Saiu; 4; Sessão autenticada; 8
+2010-03-15T20:11:44; Saiu; 7; Versão do protocolo; 22
+2010-03-15T20:11:44; Saiu; 302; Lista de ativos em dia; 8
+2010-03-15T20:11:44; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-15T20:11:44; Saiu; 200; Ativo tempo-real; 143
+2010-03-15T20:11:44; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-15T20:12:58; Saiu; 1; Autenticação ok; 8
+2010-03-15T20:12:58; Entrou; 1; Autenticando; 94
+2010-03-15T20:12:58; Saiu; 3; Sessão; 8
+2010-03-15T20:12:58; Entrou; 2; Requisição de sessão; 4
+2010-03-15T20:12:59; Saiu; 6; Aguardando sessão; 8
+2010-03-15T20:12:59; Entrou; 1000; Id da Sessão; 104
+2010-03-16T11:18:39; Saiu; 1; Autenticação ok; 8
+2010-03-16T11:18:39; Entrou; 1; Autenticando; 94
+2010-03-16T11:18:39; Saiu; 3; Sessão; 8
+2010-03-16T11:18:39; Entrou; 2; Requisição de sessão; 4
+2010-03-16T11:18:39; Saiu; 6; Aguardando sessão; 8
+2010-03-16T11:18:39; Entrou; 1000; Id da Sessão; 104
+2010-03-16T11:42:07; Saiu; 1; Autenticação ok; 8
+2010-03-16T11:42:07; Entrou; 1; Autenticando; 94
+2010-03-16T11:42:07; Saiu; 3; Sessão; 8
+2010-03-16T11:42:07; Entrou; 2; Requisição de sessão; 4
+2010-03-16T11:42:08; Saiu; 6; Aguardando sessão; 8
+2010-03-16T11:42:08; Entrou; 1000; Id da Sessão; 104
+2010-03-16T11:42:08; Saiu; 4; Sessão autenticada; 8
+2010-03-16T11:42:08; Saiu; 7; Versão do protocolo; 22
+2010-03-16T11:42:08; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T11:42:08; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T11:42:08; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T11:42:08; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T14:18:11; Saiu; 1; Autenticação ok; 8
+2010-03-16T14:18:11; Entrou; 1; Autenticando; 94
+2010-03-16T14:18:11; Saiu; 3; Sessão; 8
+2010-03-16T14:18:11; Entrou; 2; Requisição de sessão; 4
+2010-03-16T14:18:11; Saiu; 6; Aguardando sessão; 8
+2010-03-16T14:18:11; Entrou; 1000; Id da Sessão; 104
+2010-03-16T14:18:11; Saiu; 4; Sessão autenticada; 8
+2010-03-16T14:18:11; Saiu; 7; Versão do protocolo; 22
+2010-03-16T14:18:12; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T14:18:12; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T14:18:12; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T14:18:12; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T14:47:07; Saiu; 1; Autenticação ok; 8
+2010-03-16T14:47:07; Entrou; 1; Autenticando; 94
+2010-03-16T14:47:07; Saiu; 3; Sessão; 8
+2010-03-16T14:47:07; Entrou; 2; Requisição de sessão; 4
+2010-03-16T14:47:07; Saiu; 6; Aguardando sessão; 8
+2010-03-16T14:47:07; Entrou; 1000; Id da Sessão; 104
+2010-03-16T14:47:07; Saiu; 4; Sessão autenticada; 8
+2010-03-16T14:47:07; Saiu; 7; Versão do protocolo; 22
+2010-03-16T14:47:08; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T14:47:08; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T14:47:08; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T14:47:08; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T15:27:46; Saiu; 1; Autenticação ok; 8
+2010-03-16T15:27:46; Entrou; 1; Autenticando; 94
+2010-03-16T15:27:46; Saiu; 3; Sessão; 8
+2010-03-16T15:27:46; Entrou; 2; Requisição de sessão; 4
+2010-03-16T15:27:46; Saiu; 6; Aguardando sessão; 8
+2010-03-16T15:27:46; Entrou; 1000; Id da Sessão; 104
+2010-03-16T15:36:09; Saiu; 1; Autenticação ok; 8
+2010-03-16T15:36:09; Entrou; 1; Autenticando; 94
+2010-03-16T15:36:09; Saiu; 3; Sessão; 8
+2010-03-16T15:36:09; Entrou; 2; Requisição de sessão; 4
+2010-03-16T15:36:10; Saiu; 6; Aguardando sessão; 8
+2010-03-16T15:36:10; Entrou; 1000; Id da Sessão; 104
+2010-03-16T15:50:06; Saiu; 1; Autenticação ok; 8
+2010-03-16T15:50:06; Entrou; 1; Autenticando; 94
+2010-03-16T15:50:06; Saiu; 3; Sessão; 8
+2010-03-16T15:50:06; Entrou; 2; Requisição de sessão; 4
+2010-03-16T15:50:07; Saiu; 6; Aguardando sessão; 8
+2010-03-16T15:50:07; Entrou; 1000; Id da Sessão; 104
+2010-03-16T15:50:07; Saiu; 4; Sessão autenticada; 8
+2010-03-16T15:50:07; Saiu; 7; Versão do protocolo; 22
+2010-03-16T15:50:07; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T15:50:07; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T15:50:07; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T15:50:07; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T15:53:28; Saiu; 1; Autenticação ok; 8
+2010-03-16T15:53:29; Entrou; 1; Autenticando; 94
+2010-03-16T15:53:29; Saiu; 3; Sessão; 8
+2010-03-16T15:53:29; Entrou; 2; Requisição de sessão; 4
+2010-03-16T15:53:29; Saiu; 6; Aguardando sessão; 8
+2010-03-16T15:53:29; Entrou; 1000; Id da Sessão; 104
+2010-03-16T15:53:29; Saiu; 4; Sessão autenticada; 8
+2010-03-16T15:53:29; Saiu; 7; Versão do protocolo; 22
+2010-03-16T15:53:30; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T15:53:30; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T15:53:30; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T15:53:30; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:06:25; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:06:25; Entrou; 1; Autenticando; 94
+2010-03-16T16:06:25; Saiu; 3; Sessão; 8
+2010-03-16T16:06:25; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:06:26; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:06:26; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:18:07; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:18:07; Entrou; 1; Autenticando; 94
+2010-03-16T16:18:07; Saiu; 3; Sessão; 8
+2010-03-16T16:18:07; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:18:07; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:18:07; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:18:07; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:18:07; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:18:08; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:18:08; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:18:08; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:18:08; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:33:42; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:33:42; Entrou; 1; Autenticando; 94
+2010-03-16T16:33:42; Saiu; 3; Sessão; 8
+2010-03-16T16:33:42; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:33:42; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:33:42; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:35:18; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:35:18; Entrou; 1; Autenticando; 94
+2010-03-16T16:35:19; Saiu; 3; Sessão; 8
+2010-03-16T16:35:19; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:35:19; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:35:19; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:44:43; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:44:43; Entrou; 1; Autenticando; 94
+2010-03-16T16:44:43; Saiu; 3; Sessão; 8
+2010-03-16T16:44:43; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:44:43; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:44:43; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:44:43; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:44:43; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:44:44; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:44:44; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:44:44; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:44:44; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:55:17; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:55:17; Entrou; 1; Autenticando; 94
+2010-03-16T16:55:17; Saiu; 3; Sessão; 8
+2010-03-16T16:55:17; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:55:18; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:55:18; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:55:18; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:55:18; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:55:18; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:55:18; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:55:18; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:55:18; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:55:28; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:55:28; Entrou; 1; Autenticando; 94
+2010-03-16T16:55:28; Saiu; 3; Sessão; 8
+2010-03-16T16:55:28; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:55:28; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:55:28; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:55:28; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:55:28; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:55:28; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:55:28; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:55:28; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:55:28; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:56:10; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:56:10; Entrou; 1; Autenticando; 94
+2010-03-16T16:56:10; Saiu; 3; Sessão; 8
+2010-03-16T16:56:10; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:56:12; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:56:12; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:59:32; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:59:32; Entrou; 1; Autenticando; 94
+2010-03-16T16:59:32; Saiu; 3; Sessão; 8
+2010-03-16T16:59:32; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:59:33; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:59:33; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:59:33; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:59:33; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:59:33; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:59:33; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:59:33; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:59:33; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:59:37; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:59:37; Entrou; 1; Autenticando; 94
+2010-03-16T16:59:37; Saiu; 3; Sessão; 8
+2010-03-16T16:59:37; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:59:38; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:59:38; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:59:38; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:59:38; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:59:38; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:59:38; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:59:38; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:59:38; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T16:59:46; Saiu; 1; Autenticação ok; 8
+2010-03-16T16:59:46; Entrou; 1; Autenticando; 94
+2010-03-16T16:59:46; Saiu; 3; Sessão; 8
+2010-03-16T16:59:46; Entrou; 2; Requisição de sessão; 4
+2010-03-16T16:59:46; Saiu; 6; Aguardando sessão; 8
+2010-03-16T16:59:46; Entrou; 1000; Id da Sessão; 104
+2010-03-16T16:59:46; Saiu; 4; Sessão autenticada; 8
+2010-03-16T16:59:46; Saiu; 7; Versão do protocolo; 22
+2010-03-16T16:59:46; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T16:59:46; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T16:59:46; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T16:59:46; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T17:04:11; Saiu; 1; Autenticação ok; 8
+2010-03-16T17:04:11; Entrou; 1; Autenticando; 94
+2010-03-16T17:04:11; Saiu; 3; Sessão; 8
+2010-03-16T17:04:11; Entrou; 2; Requisição de sessão; 4
+2010-03-16T17:04:12; Saiu; 6; Aguardando sessão; 8
+2010-03-16T17:04:12; Entrou; 1000; Id da Sessão; 104
+2010-03-16T17:04:12; Saiu; 4; Sessão autenticada; 8
+2010-03-16T17:04:12; Saiu; 7; Versão do protocolo; 22
+2010-03-16T17:04:12; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T17:04:12; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T17:04:12; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T17:04:12; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T17:09:19; Saiu; 1; Autenticação ok; 8
+2010-03-16T17:09:19; Entrou; 1; Autenticando; 94
+2010-03-16T17:09:19; Saiu; 3; Sessão; 8
+2010-03-16T17:09:19; Entrou; 2; Requisição de sessão; 4
+2010-03-16T17:09:19; Saiu; 6; Aguardando sessão; 8
+2010-03-16T17:09:19; Entrou; 1000; Id da Sessão; 104
+2010-03-16T17:09:19; Saiu; 4; Sessão autenticada; 8
+2010-03-16T17:09:19; Saiu; 7; Versão do protocolo; 22
+2010-03-16T17:09:20; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T17:09:20; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T17:09:20; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T17:09:20; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T17:11:17; Saiu; 1; Autenticação ok; 8
+2010-03-16T17:11:17; Entrou; 1; Autenticando; 94
+2010-03-16T17:11:17; Saiu; 3; Sessão; 8
+2010-03-16T17:11:17; Entrou; 2; Requisição de sessão; 4
+2010-03-16T17:11:18; Saiu; 6; Aguardando sessão; 8
+2010-03-16T17:11:18; Entrou; 1000; Id da Sessão; 104
+2010-03-16T17:11:18; Saiu; 4; Sessão autenticada; 8
+2010-03-16T17:11:18; Saiu; 7; Versão do protocolo; 22
+2010-03-16T17:11:18; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T17:11:18; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T17:11:18; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T17:11:18; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T17:11:23; Saiu; 1; Autenticação ok; 8
+2010-03-16T17:11:23; Entrou; 1; Autenticando; 94
+2010-03-16T17:11:23; Saiu; 3; Sessão; 8
+2010-03-16T17:11:23; Entrou; 2; Requisição de sessão; 4
+2010-03-16T17:11:24; Saiu; 6; Aguardando sessão; 8
+2010-03-16T17:11:24; Entrou; 1000; Id da Sessão; 104
+2010-03-16T17:11:24; Saiu; 4; Sessão autenticada; 8
+2010-03-16T17:11:24; Saiu; 7; Versão do protocolo; 22
+2010-03-16T17:11:24; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T17:11:24; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T17:11:24; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T17:11:24; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-16T17:12:20; Saiu; 1; Autenticação ok; 8
+2010-03-16T17:12:20; Entrou; 1; Autenticando; 94
+2010-03-16T17:12:20; Saiu; 3; Sessão; 8
+2010-03-16T17:12:20; Entrou; 2; Requisição de sessão; 4
+2010-03-16T17:12:21; Saiu; 6; Aguardando sessão; 8
+2010-03-16T17:12:21; Entrou; 1000; Id da Sessão; 104
+2010-03-16T17:12:21; Saiu; 4; Sessão autenticada; 8
+2010-03-16T17:12:21; Saiu; 7; Versão do protocolo; 22
+2010-03-16T17:12:21; Saiu; 302; Lista de ativos em dia; 8
+2010-03-16T17:12:21; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-16T17:12:21; Saiu; 200; Ativo tempo-real; 143
+2010-03-16T17:12:21; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T15:27:15; Saiu; 1; Autenticação ok; 8
+2010-03-25T15:27:15; Entrou; 1; Autenticando; 94
+2010-03-25T15:27:15; Saiu; 3; Sessão; 8
+2010-03-25T15:27:15; Entrou; 2; Requisição de sessão; 4
+2010-03-25T15:27:15; Saiu; 6; Aguardando sessão; 8
+2010-03-25T15:27:15; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:02:07; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:02:07; Entrou; 1; Autenticando; 94
+2010-03-25T18:02:07; Saiu; 3; Sessão; 8
+2010-03-25T18:02:07; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:02:08; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:02:08; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:02:08; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:02:08; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:02:08; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:02:08; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:02:08; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:02:08; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:02:17; Saiu; 100; Ativo completo; 23609
+2010-03-25T18:02:17; Entrou; 100; Requisição de ativo; 20
+2010-03-25T18:09:35; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:09:35; Entrou; 1; Autenticando; 94
+2010-03-25T18:09:36; Saiu; 3; Sessão; 8
+2010-03-25T18:09:36; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:09:36; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:09:36; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:09:36; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:09:36; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:09:36; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:09:36; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:09:36; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:09:36; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:09:47; Saiu; 100; Ativo completo; 885
+2010-03-25T18:09:47; Entrou; 100; Requisição de ativo; 20
+2010-03-25T18:12:07; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:12:07; Entrou; 1; Autenticando; 94
+2010-03-25T18:12:07; Saiu; 3; Sessão; 8
+2010-03-25T18:12:07; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:12:07; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:12:07; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:12:07; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:12:07; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:12:07; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:12:07; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:12:07; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:12:07; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:13:50; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:13:50; Entrou; 1; Autenticando; 94
+2010-03-25T18:13:50; Saiu; 3; Sessão; 8
+2010-03-25T18:13:50; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:13:50; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:13:50; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:13:50; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:13:50; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:13:50; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:13:50; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:13:50; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:13:50; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:17:50; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:17:50; Entrou; 1; Autenticando; 94
+2010-03-25T18:17:50; Saiu; 3; Sessão; 8
+2010-03-25T18:17:50; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:17:50; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:17:50; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:17:50; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:17:50; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:17:50; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:17:50; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:17:50; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:17:50; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:17:57; Saiu; 100; Ativo completo; 13121
+2010-03-25T18:17:57; Entrou; 100; Requisição de ativo; 22
+2010-03-25T18:18:54; Saiu; 108; ; 359
+2010-03-25T18:18:54; Entrou; 100; Requisição de ativo; 18
+2010-03-25T18:35:00; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:35:00; Entrou; 1; Autenticando; 94
+2010-03-25T18:35:00; Saiu; 3; Sessão; 8
+2010-03-25T18:35:00; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:35:00; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:35:00; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:35:00; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:35:00; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:35:01; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:35:01; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:35:01; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:35:01; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:35:09; Saiu; 100; Ativo completo; 13121
+2010-03-25T18:35:09; Entrou; 100; Requisição de ativo; 22
+2010-03-25T18:36:31; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:36:31; Entrou; 1; Autenticando; 94
+2010-03-25T18:36:31; Saiu; 3; Sessão; 8
+2010-03-25T18:36:31; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:36:31; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:36:31; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:36:31; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:36:31; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:36:31; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:36:31; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:36:31; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:36:31; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:36:39; Saiu; 100; Ativo completo; 13121
+2010-03-25T18:36:39; Entrou; 100; Requisição de ativo; 22
+2010-03-25T18:38:04; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:38:04; Entrou; 1; Autenticando; 94
+2010-03-25T18:38:04; Saiu; 3; Sessão; 8
+2010-03-25T18:38:04; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:38:04; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:38:04; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:44:37; Saiu; 1; Autenticação ok; 8
+2010-03-25T18:44:37; Entrou; 1; Autenticando; 94
+2010-03-25T18:44:37; Saiu; 3; Sessão; 8
+2010-03-25T18:44:37; Entrou; 2; Requisição de sessão; 4
+2010-03-25T18:44:38; Saiu; 6; Aguardando sessão; 8
+2010-03-25T18:44:38; Entrou; 1000; Id da Sessão; 104
+2010-03-25T18:44:38; Saiu; 4; Sessão autenticada; 8
+2010-03-25T18:44:38; Saiu; 7; Versão do protocolo; 22
+2010-03-25T18:44:38; Saiu; 302; Lista de ativos em dia; 8
+2010-03-25T18:44:38; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-25T18:44:38; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T18:44:38; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T18:44:43; Saiu; 100; Ativo completo; 13121
+2010-03-25T18:44:43; Entrou; 100; Requisição de ativo; 22
+2010-03-25T19:24:21; Saiu; 1; Autenticação ok; 8
+2010-03-25T19:24:21; Entrou; 1; Autenticando; 94
+2010-03-25T19:24:21; Saiu; 3; Sessão; 8
+2010-03-25T19:24:21; Entrou; 2; Requisição de sessão; 4
+2010-03-25T19:24:21; Saiu; 6; Aguardando sessão; 8
+2010-03-25T19:24:21; Entrou; 1000; Id da Sessão; 104
+2010-03-25T19:24:21; Saiu; 4; Sessão autenticada; 8
+2010-03-25T19:24:21; Saiu; 7; Versão do protocolo; 22
+2010-03-25T19:24:35; Saiu; 300; Lista de ativos; 1020528
+2010-03-25T19:24:35; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-25T19:24:35; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T19:24:35; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T19:35:05; Saiu; 1; Autenticação ok; 8
+2010-03-25T19:35:05; Entrou; 1; Autenticando; 94
+2010-03-25T19:35:05; Saiu; 3; Sessão; 8
+2010-03-25T19:35:05; Entrou; 2; Requisição de sessão; 4
+2010-03-25T19:35:05; Saiu; 6; Aguardando sessão; 8
+2010-03-25T19:35:05; Entrou; 1000; Id da Sessão; 104
+2010-03-25T19:35:05; Saiu; 4; Sessão autenticada; 8
+2010-03-25T19:35:05; Saiu; 7; Versão do protocolo; 22
+2010-03-25T19:35:16; Saiu; 300; Lista de ativos; 1223288
+2010-03-25T19:35:16; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-25T19:35:16; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T19:35:16; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T19:35:52; Saiu; 108; ; 369
+2010-03-25T19:35:52; Entrou; 100; Requisição de ativo; 20
+2010-03-25T19:38:18; Saiu; 1; Autenticação ok; 8
+2010-03-25T19:38:18; Entrou; 1; Autenticando; 94
+2010-03-25T19:38:18; Saiu; 3; Sessão; 8
+2010-03-25T19:38:18; Entrou; 2; Requisição de sessão; 4
+2010-03-25T19:38:18; Saiu; 6; Aguardando sessão; 8
+2010-03-25T19:38:18; Entrou; 1000; Id da Sessão; 104
+2010-03-25T19:38:18; Saiu; 4; Sessão autenticada; 8
+2010-03-25T19:38:18; Saiu; 7; Versão do protocolo; 22
+2010-03-25T19:38:28; Saiu; 300; Lista de ativos; 1223288
+2010-03-25T19:38:28; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-25T19:38:28; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T19:38:28; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T19:55:56; Saiu; 1; Autenticação ok; 8
+2010-03-25T19:55:56; Entrou; 1; Autenticando; 94
+2010-03-25T19:55:56; Saiu; 3; Sessão; 8
+2010-03-25T19:55:56; Entrou; 2; Requisição de sessão; 4
+2010-03-25T19:55:56; Saiu; 6; Aguardando sessão; 8
+2010-03-25T19:55:56; Entrou; 1000; Id da Sessão; 104
+2010-03-25T19:55:56; Saiu; 4; Sessão autenticada; 8
+2010-03-25T19:55:56; Saiu; 7; Versão do protocolo; 22
+2010-03-25T19:56:06; Saiu; 300; Lista de ativos; 1223288
+2010-03-25T19:56:08; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-25T19:56:08; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T19:56:08; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T19:56:50; Saiu; 1; Autenticação ok; 8
+2010-03-25T19:56:50; Entrou; 1; Autenticando; 94
+2010-03-25T19:56:50; Saiu; 3; Sessão; 8
+2010-03-25T19:56:50; Entrou; 2; Requisição de sessão; 4
+2010-03-25T19:56:50; Saiu; 6; Aguardando sessão; 8
+2010-03-25T19:56:50; Entrou; 1000; Id da Sessão; 104
+2010-03-25T19:56:50; Saiu; 4; Sessão autenticada; 8
+2010-03-25T19:56:50; Saiu; 7; Versão do protocolo; 22
+2010-03-25T19:57:00; Saiu; 300; Lista de ativos; 1223288
+2010-03-25T19:57:00; Entrou; 300; Requisição de lista de ativos; 4
+2010-03-25T19:57:00; Saiu; 200; Ativo tempo-real; 143
+2010-03-25T19:57:00; Entrou; 200; Requisição de ativo tempo-real; 18
+2010-03-25T19:57:02; Saiu; 100; Ativo completo; 92821
+2010-03-25T19:57:02; Entrou; 100; Requisição de ativo; 18

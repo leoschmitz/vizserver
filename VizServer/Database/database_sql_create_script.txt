@@ -1,0 +1,166 @@
+
+#cria o banco
+CREATE DATABASE IF NOT EXISTS VizTrader;
+
+
+#cria os usuarios e permissoes para o banco VizTrader
+DROP USER 'vizuser'@'localhost';
+DROP USER 'vizuser'@'127.0.0.1';
+DROP USER 'vizadmin'@'localhost';
+DROP USER 'vizadmin'@'127.0.0.1';
+
+FLUSH PRIVILEGES;
+CREATE USER 'vizuser'@'localhost' IDENTIFIED BY 'v1zTr4der_Uz4r';
+CREATE USER 'vizuser'@'127.0.0.1' IDENTIFIED BY 'v1zTr4der_Uz4r';
+GRANT SELECT ON VizTrader.* TO 'vizuser'@'localhost';
+GRANT SELECT ON VizTrader.* TO 'vizuser'@'127.0.0.1';
+FLUSH PRIVILEGES;
+CREATE USER 'vizadmin'@'localhost' IDENTIFIED BY '20_4dM1n_Uz4r09';
+CREATE USER 'vizadmin'@'127.0.0.1' IDENTIFIED BY '20_4dM1n_Uz4r09';
+GRANT SELECT,INSERT,UPDATE,DELETE ON VizTrader.* TO 'vizadmin'@'localhost';
+GRANT SELECT,INSERT,UPDATE,DELETE ON VizTrader.* TO 'vizadmin'@'127.0.0.1';
+FLUSH PRIVILEGES;
+
+
+#seleciona o banco e cria as tabelas
+#tive que ajustar no braço as strings das tabelas para DEFAULT CHARSET=utf8
+
+USE VizTrader;
+
+SET NAMES 'utf8';
+SET character_set_connection=utf8;
+SET character_set_client=utf8;
+SET character_set_results=utf8;
+
+
+CREATE TABLE VizCompany (
+  CompanyId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  Name VARCHAR(255) NULL,
+  WholeName VARCHAR(255) NULL,
+  PartialSecuritySymbol VARCHAR(4) NOT NULL,
+  CNPJ VARCHAR(20) NULL,
+  CCVM INTEGER UNSIGNED NULL,
+  IssuerCreation DATE NULL,
+  CurrentStatus VARCHAR(32) NULL,
+  InfoUpdated DATE NULL,
+  PRIMARY KEY(CompanyId),
+  UNIQUE INDEX VizCompany_index1740(PartialSecuritySymbol)
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE VizAccountType (
+  AccountTypeId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  AccountTypeName VARCHAR(255) NULL,
+  AccountTypeDescription VARCHAR(1023) NULL,
+  AccountTypeActived BOOL NULL,
+  PRIMARY KEY(AccountTypeId)
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE VizSplit (
+  VizSplitId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  CompanyId INTEGER UNSIGNED NOT NULL,
+  Date DATE NULL,
+  ValueAfter DOUBLE NULL,
+  ValueBefore DOUBLE NULL,
+  QuantityAfter BIGINT NULL,
+  QuantityBefore BIGINT NULL,
+  PRIMARY KEY(VizSplitId),
+  INDEX VizEvent_FKIndex1(CompanyId),
+  UNIQUE INDEX VizSplit_index1898(CompanyId, Date),
+  FOREIGN KEY(CompanyId)
+    REFERENCES VizCompany(CompanyId)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE VizUser (
+  UserId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  AccountTypeId INTEGER UNSIGNED NOT NULL,
+  UserName VARCHAR(255) NOT NULL,
+  UserPassword VARCHAR(255) NOT NULL,
+  FullName VARCHAR(255) NOT NULL,
+  Email VARCHAR(255) NOT NULL,
+  CreationDate DATETIME NOT NULL,
+  FirstLogin DATETIME NULL,
+  LastLogin DATETIME NULL,
+  PRIMARY KEY(UserId),
+  INDEX VizUser_FKIndex1(AccountTypeId),
+  UNIQUE INDEX UserName_unique_index(UserName),
+  FOREIGN KEY(AccountTypeId)
+    REFERENCES VizAccountType(AccountTypeId)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE VizSecurity (
+  SecurityId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  CompanyId INTEGER UNSIGNED NOT NULL,
+  ISIN VARCHAR(12) NULL,
+  ISINObject VARCHAR(32) NULL,
+  Symbol VARCHAR(12) NOT NULL,
+  Bdi INTEGER UNSIGNED NULL,
+  BdiDescription VARCHAR(64) NULL,
+  DistributionNumber INTEGER UNSIGNED NULL,
+  MarketType INTEGER UNSIGNED NULL,
+  MarketDescription VARCHAR(16) NULL,
+  DueDate DATE NULL,
+  Price DOUBLE NULL,
+  OptionStyle VARCHAR(4) NULL,
+  CurrecyTypeDescription VARCHAR(16) NULL,
+  Protection VARCHAR(4) NULL,
+  Negotiable BOOL NULL,
+  NegotiableStart DATE NULL,
+  NegotiableEnd DATE NULL,
+  InfoUpdated DATE NULL,
+  PRIMARY KEY(SecurityId),
+  INDEX VizSecurity_FKIndex1(CompanyId),
+  UNIQUE INDEX Symbol_unique_index(Symbol),
+  FOREIGN KEY(CompanyId)
+    REFERENCES VizCompany(CompanyId)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE VizSecurityPeriodDaily (
+  SecurityPeriodDailyId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  SecurityId INTEGER UNSIGNED NOT NULL,
+  EspeciEvent VARCHAR(255) NULL,
+  OpenPrice DOUBLE NULL,
+  ClosePrice DOUBLE NULL,
+  MaxPrice DOUBLE NULL,
+  MinPrice DOUBLE NULL,
+  AveragePrice DOUBLE NULL,
+  QuantityTrades BIGINT NULL,
+  TotalVolume DOUBLE NULL,
+  INDOPC INTEGER UNSIGNED NULL,
+  StrikePrice DOUBLE NULL,
+  MaturityDate DATE NULL,
+  CurrentValue DOUBLE NULL,
+  BestSellOffer DOUBLE NULL,
+  BestBuyOffer DOUBLE NULL,
+  Variation DOUBLE NULL,
+  QuotationFactor INTEGER UNSIGNED NULL,
+  StrikePricePoints DOUBLE NULL,
+  ForwardMarketTermDays VARCHAR(255) NULL,
+  Currency VARCHAR(255) NULL,
+  DISMES INTEGER UNSIGNED NULL,
+  OpenTimeStamp DATETIME NULL,
+  CloseTimeStamp DATETIME NULL,
+  PRIMARY KEY(SecurityPeriodDailyId),
+  INDEX VizSecurityPeriodDaily_FKIndex1(SecurityId),
+  UNIQUE INDEX OpenTimeStampIndex(SecurityId, OpenTimeStamp, ForwardMarketTermDays),
+  UNIQUE INDEX CloseTimeStampIndex(SecurityId, CloseTimeStamp, ForwardMarketTermDays),
+  FOREIGN KEY(SecurityId)
+    REFERENCES VizSecurity(SecurityId)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+)
+TYPE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+

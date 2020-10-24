@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VizServer", "VizServer\VizServer.vcproj", "{69D4ACF9-25B8-4D3F-9900-2722DE77174B}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VizServerView", "VizServerView\VizServerView.vcproj", "{315D033D-9EDF-4D56-9908-8D52D4784CCA}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VizScriptTools", "VizScriptTools\VizScriptTools.vcproj", "{C2C83288-5B5D-4932-9AFB-7E500F13D4F9}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VizServer\\VizServer.vcproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = VizServer\\
+		SccProjectUniqueName2 = VizServerView\\VizServerView.vcproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = VizServerView\\
+		SccProjectUniqueName3 = VizScriptTools\\VizScriptTools.vcproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = VizScriptTools\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D4ACF9-25B8-4D3F-9900-2722DE77174B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69D4ACF9-25B8-4D3F-9900-2722DE77174B}.Debug|Win32.Build.0 = Debug|Win32
+		{69D4ACF9-25B8-4D3F-9900-2722DE77174B}.Release|Win32.ActiveCfg = Release|Win32
+		{69D4ACF9-25B8-4D3F-9900-2722DE77174B}.Release|Win32.Build.0 = Release|Win32
+		{315D033D-9EDF-4D56-9908-8D52D4784CCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{315D033D-9EDF-4D56-9908-8D52D4784CCA}.Debug|Win32.Build.0 = Debug|Win32
+		{315D033D-9EDF-4D56-9908-8D52D4784CCA}.Release|Win32.ActiveCfg = Release|Win32
+		{315D033D-9EDF-4D56-9908-8D52D4784CCA}.Release|Win32.Build.0 = Release|Win32
+		{C2C83288-5B5D-4932-9AFB-7E500F13D4F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2C83288-5B5D-4932-9AFB-7E500F13D4F9}.Debug|Win32.Build.0 = Debug|Win32
+		{C2C83288-5B5D-4932-9AFB-7E500F13D4F9}.Release|Win32.ActiveCfg = Release|Win32
+		{C2C83288-5B5D-4932-9AFB-7E500F13D4F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

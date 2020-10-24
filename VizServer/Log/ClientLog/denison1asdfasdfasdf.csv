@@ -1,0 +1,40 @@
+2010-03-10T14:10:18; Saiu; 1; Autenticação ok; 8
+2010-03-10T14:10:18; Entrou; 1; Autenticando; 52
+2010-03-10T14:10:18; Saiu; 3; Sessão; 8
+2010-03-10T14:10:18; Entrou; 2; Requisição de sessão; 4
+2010-03-10T14:10:18; Saiu; 6; Aguardando sessão; 8
+2010-03-10T14:10:18; Entrou; 1000; Id da Sessão; 104
+2010-03-10T14:10:18; Saiu; 4; Sessão autenticada; 8
+2010-03-10T14:10:18; Saiu; 7; Versão do protocolo; 22
+2010-03-10T14:10:18; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T14:10:18; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-10T14:10:39; Saiu; 1; Autenticação ok; 8
+2010-03-10T14:10:39; Entrou; 1; Autenticando; 52
+2010-03-10T14:10:39; Saiu; 3; Sessão; 8
+2010-03-10T14:10:39; Entrou; 2; Requisição de sessão; 4
+2010-03-10T14:10:39; Saiu; 6; Aguardando sessão; 8
+2010-03-10T14:10:39; Entrou; 1000; Id da Sessão; 104
+2010-03-10T14:10:39; Saiu; 4; Sessão autenticada; 8
+2010-03-10T14:10:39; Saiu; 7; Versão do protocolo; 22
+2010-03-10T14:10:40; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T14:10:40; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-10T14:10:47; Saiu; 1; Autenticação ok; 8
+2010-03-10T14:10:47; Entrou; 1; Autenticando; 52
+2010-03-10T14:10:47; Saiu; 3; Sessão; 8
+2010-03-10T14:10:47; Entrou; 2; Requisição de sessão; 4
+2010-03-10T14:10:47; Saiu; 6; Aguardando sessão; 8
+2010-03-10T14:10:48; Entrou; 1000; Id da Sessão; 104
+2010-03-10T14:10:48; Saiu; 4; Sessão autenticada; 8
+2010-03-10T14:10:48; Saiu; 7; Versão do protocolo; 22
+2010-03-10T14:10:48; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T14:10:48; Entrou; 301; Atualização de lista de ativos; 8
+2010-03-10T14:10:52; Saiu; 1; Autenticação ok; 8
+2010-03-10T14:10:52; Entrou; 1; Autenticando; 52
+2010-03-10T14:10:52; Saiu; 3; Sessão; 8
+2010-03-10T14:10:52; Entrou; 2; Requisição de sessão; 4
+2010-03-10T14:10:52; Saiu; 6; Aguardando sessão; 8
+2010-03-10T14:10:52; Entrou; 1000; Id da Sessão; 104
+2010-03-10T14:10:52; Saiu; 4; Sessão autenticada; 8
+2010-03-10T14:10:52; Saiu; 7; Versão do protocolo; 22
+2010-03-10T14:10:52; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T14:10:52; Entrou; 301; Atualização de lista de ativos; 8

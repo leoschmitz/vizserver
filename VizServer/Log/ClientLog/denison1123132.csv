@@ -1,0 +1,10 @@
+2010-03-10T14:06:41; Saiu; 1; Autenticação ok; 8
+2010-03-10T14:06:41; Entrou; 1; Autenticando; 40
+2010-03-10T14:06:41; Saiu; 3; Sessão; 8
+2010-03-10T14:06:41; Entrou; 2; Requisição de sessão; 4
+2010-03-10T14:06:41; Saiu; 6; Aguardando sessão; 8
+2010-03-10T14:06:42; Entrou; 1000; Id da Sessão; 104
+2010-03-10T14:06:42; Saiu; 4; Sessão autenticada; 8
+2010-03-10T14:06:42; Saiu; 7; Versão do protocolo; 22
+2010-03-10T14:06:42; Saiu; 302; Lista de ativos em dia; 8
+2010-03-10T14:06:42; Entrou; 301; Atualização de lista de ativos; 8

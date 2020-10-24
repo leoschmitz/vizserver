@@ -1,0 +1,53 @@
+// Conversores
+[] - Colocar direito o infoUpdate no momento em que o merge tiver informações diferentes da empresa ou do security.
+[] - Pedir pro andré ver as expansões corretas
+[] - Arrumar a busca no whole name do CHistoToFile
+
+// Banco
+[OK] - Arrumar os eventos do arquivo histórico dentro do period.
+[] - Retirar os eventos do securityInfo.
+[] - Arrumar os símbolos de acordo com a ação.
+[OK] - Depois q estiver o campo negociavel tem q fazer uma funcao pra tirar todos negociaveis.
+	
+// Server
+[] - Registrar os pedidos inválidos (antes da conexão) em um log específico (tratar no dumpbuffer).
+[OK] - Mandar o security list.
+[OK] - Salvar em arquivo ambos os logs do servidor e de informação do cliente.
+[] - Fazer um controle de versão do protocolo (bem simples).
+[OK] - Enumerar todos erros de conexão possíveis.
+[] - Fazer um escalonador de requisições por thread.
+[] - Dividir os security periods pra mandar por partes.
+[OK] - Conversar o VizTP com o client.
+[] - Fazer a comparação do cert pra garantir q nós somos nós (phishing).
+[] - Colocar no nosso domínio o txt com a assinatura (relacionado ao item acima).
+[OK] - Implementar o servidor como serviço.
+[] - Fazer interface gráfica do server pro management de clientes.
+	- Fazer a lista do cliente
+[ok] - Mapear o estado da conexão.
+
+[OK] - Guardar logs das ações dos clientes.
+[Den] - Mostrar o display do certificado.
+[OK] - Fazer o login do servidor com o banco.
+[OK] - Limitar o número de conexões por cliente através do login.
+[] - Cadastrar clientes no banco através da internet.
+[] - Limitar o numero de threads - discutível.
+[] - Passar o log em inteiro e depois traduzir valores no view (por enquanto estão sendo traduzidos direto)
+
+[] - Fazer blacklist.
+[] - Fazer um servidor só pra login.
+[] - Fazer um parse da entrada no serviço.
+
+[] - arrumar multiple socket notifiers for type read e socket bla bla bla.
+[] - arrumar not available do server.
+[] - tem um caso que a thread tá pendurando.
+   - basta conectar e desconectar pelo viz, deve ter a ve com os estados que não foram bem mapeados.
+
+//client
+[] - Fazer o merge no client dos elementos a tirar.
+[ok] - Enumerar todos erros de conexão possíveis.
+
+
+
+
+
+

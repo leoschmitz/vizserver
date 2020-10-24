@@ -1,0 +1,60 @@
+
+void testVizIDatabase()
+{
+	//testar o bodoque
+	VizCDatabase* Database = new VizCDatabase();
+
+	Q_ASSERT(Database->open());
+
+	
+	QVector<s32> companyIds;
+	Database->getAllCompanyIds(companyIds);
+	foreach(s32 id, companyIds)
+	{
+		Database->removeCompany(id);
+	}
+	
+
+
+	core::VizCCompany novacompany("nombre", "vaisabe", "abcd", "cnpjdummy", QDate::currentDate(), "currentStatus");
+
+	core::VizCSecurity sec1("123", "isinobj1", "simbolo1", static_cast<VizESecurityBDI>(1), "dbudesc1", static_cast<VizEMarketType>(1), "markdesc1", 666, "sectype1", 1239, QDate::currentDate(), 1.01, "opt1", 3, "currncyDesc1", "p1", true);
+	core::VizCSecurity sec2("124", "isinobj2", "simbolo2", static_cast<VizESecurityBDI>(1), "dbudesc2", static_cast<VizEMarketType>(1), "markdesc2", 667, "sectype2", 12310, QDate::currentDate(), 1.02, "opt2", 4, "currncyDesc2", "p2", false);
+	core::VizCSecurity sec3("125", "isinobj3", "simbolo3", static_cast<VizESecurityBDI>(-1), "dbudesc3", static_cast<VizEMarketType>(-1), "markdesc3", 668, "sectype3", 12311, QDate::currentDate(), 1.03, "opt3", 5, "currncyDesc3", "p3", true);
+
+	core::VizCSecurityPeriod sp1("especiEvent1", 0.1, 0.2, 0.2, 0.3, 0.4, 1, 1, static_cast<VizEContractCorrection>(1), 0.11, QDate::currentDate(), 0.12, 0.13, 0.14, 0.1, 1, 0.15, "forwardMarketTermDays", "currency", 1, QDateTime::currentDateTime(), QDateTime::currentDateTime());
+	core::VizCSecurityPeriod sp2("especiEvent2", 0.1, 0.2, 0.2, 0.3, 0.4, 1, 1, static_cast<VizEContractCorrection>(1), 0.11, QDate::currentDate(), 0.12, 0.13, 0.14, 0.1, 1, 0.15, "forwardMarketTermDays", "currency", 1, QDateTime::currentDateTime(), QDateTime::currentDateTime());
+	core::VizCSecurityPeriod sp3("especiEvent3", 0.1, 0.2, 0.2, 0.3, 0.4, 1, 1, static_cast<VizEContractCorrection>(1), 0.11, QDate::currentDate(), 0.12, 0.13, 0.14, 0.1, 1, 0.15, "forwardMarketTermDays", "currency", 1, QDateTime::currentDateTime(), QDateTime::currentDateTime());
+
+	sec1.SecurityPeriods.append(sp1);
+	sec1.SecurityPeriods.append(sp2);
+	sec1.SecurityPeriods.append(sp3);
+
+	novacompany.Securities.append(sec1);
+	novacompany.Securities.append(sec2);
+	novacompany.Securities.append(sec3);
+
+	s32 cpmpanyid;
+	bool ok;
+	
+	ok = Database->insertCompany(novacompany, cpmpanyid, true);
+
+	core::VizCCompany updatecompany("nombre2", "vaisab2", "abc2", "cnpjdummy2", QDate::currentDate(), "currentStatus2");
+	Database->updateCompany(cpmpanyid, updatecompany);
+	
+
+	core::VizCCompany getcompany;
+	ok = Database->getCompany(cpmpanyid, getcompany, true);
+
+	
+	s32 secID;
+	core::VizCSecurity secnova("547", "isinobj1", "simbolo66", static_cast<VizESecurityBDI>(1), "dbudesc1", static_cast<VizEMarketType>(1), "markdesc1", 666, "sectype1", 1239, QDate::currentDate(), 1.01, "opt1", 3, "currncyDesc1", "p1", true);
+	ok = Database->insertSecurity(cpmpanyid, secnova, secID);
+	core::VizCSecurity secUPD("1231", "isinobjCU", "simboloCU", static_cast<VizESecurityBDI>(-1), "dbudescCU", static_cast<VizEMarketType>(-1), "markdescCU", 667, "sectypeCU", 1239, QDate::currentDate(), 1.66, "opt0", 14, "currncyDescCU", "p0", false);
+	ok = Database->updateSecurity(secID, cpmpanyid, secUPD);
+	
+
+
+	Database->close();
+}
+

@@ -1,0 +1,317 @@
+2010-03-10T13:03:30: Abrindo Banco de Dados...
+2010-03-10T13:03:31: Demorou 469 ms.
+2010-03-10T13:03:31: Banco de Dados aberto!
+2010-03-10T13:04:23: Thread disparada...
+2010-03-10T13:04:28: Usuário denison com sessão FYwxaItfDb8epstuWIJFj2Pn4qnyhLJtvwv8OKsa5ULVhkYy e ip 201.47.240.218 conectou.
+2010-03-10T13:28:21: Cliente com sessão FYwxaItfDb8epstuWIJFj2Pn4qnyhLJtvwv8OKsa5ULVhkYy desconectou.
+2010-03-10T13:28:21: Thread Finalizada.
+2010-03-10T13:42:06: Thread disparada...
+2010-03-10T13:42:34: Cliente com sessão oxcnpC7aGGDZpyYtdY6OvGTgUQtQdewimDg6dYehWpBOZFr0 desconectou.
+2010-03-10T13:42:34: Thread Finalizada.
+2010-03-10T13:46:56: Thread disparada...
+2010-03-10T13:47:06: Cliente com sessão oEC98L4NjNVsKblEtpIslxcUxFFS4zoySB9pkWTtkG1vHD5s desconectou.
+2010-03-10T13:47:06: Thread Finalizada.
+2010-03-10T13:57:09: Thread disparada...
+2010-03-10T13:57:29: Cliente com sessão cWtp4Qz5GAZrdDToU8wVlROHTyxBFwONwydKgifzbhzFSfjS desconectou.
+2010-03-10T13:57:29: Thread Finalizada.
+2010-03-10T13:57:30: Thread disparada...
+2010-03-10T13:57:38: Cliente com sessão wEFHQQszoKSrhqXHrKhn0IP09txNMIPYI3OMl4thE5mjSiGw desconectou.
+2010-03-10T13:57:38: Thread Finalizada.
+2010-03-10T13:58:41: Thread disparada...
+2010-03-10T13:58:49: Cliente com sessão NdVffINldl623FBfaBJ257myfVMfX2i3YRX474ckkjcgxqg9 desconectou.
+2010-03-10T13:58:49: Thread Finalizada.
+2010-03-10T13:58:51: Thread disparada...
+2010-03-10T13:58:53: Cliente com sessão q969QVpicGkaHWSfNkTcWDbllIuFF9qCdszebQ96b1BXEZMc desconectou.
+2010-03-10T13:58:53: Thread Finalizada.
+2010-03-10T13:58:55: Thread disparada...
+2010-03-10T14:00:36: Cliente com sessão Sz82rScPPjVpuv3pVpqXjDmi5LxajmmcN3Q8KHRexQZ0eb3t desconectou.
+2010-03-10T14:00:36: Thread Finalizada.
+2010-03-10T14:00:47: Thread disparada...
+2010-03-10T14:00:51: Cliente com sessão ZpBQdTes7m6vPxO9CIQHuN8Fg6uXSsWYOEfwwwXJErCI77o3 desconectou.
+2010-03-10T14:00:52: Thread Finalizada.
+2010-03-10T14:01:10: Thread disparada...
+2010-03-10T14:01:13: Cliente com sessão 21OxsZlqQ1wf4ZUK6IYr26C1z13X0x1z1TBgjTfrwLHK2mOX desconectou.
+2010-03-10T14:01:13: Thread Finalizada.
+2010-03-10T14:01:56: Thread disparada...
+2010-03-10T14:02:10: Cliente com sessão NmoVY9fsxeYXyPOymNlZkL936jAu7jWrmLzHQSR1j9jJA5hK desconectou.
+2010-03-10T14:02:10: Thread Finalizada.
+2010-03-10T14:05:43: Thread disparada...
+2010-03-10T14:05:51: Cliente com sessão VLooUgPWkFvSOR7F2dpfpbPVRGHt2K5hJ36hGgUCjva4e3I2 desconectou.
+2010-03-10T14:05:51: Thread Finalizada.
+2010-03-10T14:05:53: Thread disparada...
+2010-03-10T14:06:02: Cliente com sessão JjeCDsJfeqYRndcYvWZX9hsowlmw0xVOHCy4HGL7W2zfPFED desconectou.
+2010-03-10T14:06:02: Thread Finalizada.
+2010-03-10T14:06:04: Thread disparada...
+2010-03-10T14:06:08: Usuário denison com sessão 2JGnzLNylipJGEgFf0wRWyVNjYiM5bjorrPxtvl2bB9W493v e ip 201.47.240.218 conectou.
+2010-03-10T14:06:12: Cliente com sessão 2JGnzLNylipJGEgFf0wRWyVNjYiM5bjorrPxtvl2bB9W493v desconectou.
+2010-03-10T14:06:12: Thread Finalizada.
+2010-03-10T14:06:14: Thread disparada...
+2010-03-10T14:06:21: Usuário denison com sessão Dbo8AsFHuVTPqJNod6p7kPBlsyIWniKXcQV1EbuxkUemvFlV e ip 201.47.240.218 conectou.
+2010-03-10T14:06:23: Cliente com sessão Dbo8AsFHuVTPqJNod6p7kPBlsyIWniKXcQV1EbuxkUemvFlV desconectou.
+2010-03-10T14:06:23: Thread Finalizada.
+2010-03-10T14:06:25: Thread disparada...
+2010-03-10T14:06:34: Usuário denison1 com sessão bv2RfWbjXyTEbc2YBI5XSvfOxVIzNQN0Xe995fynYM4nrDdG e ip 201.47.240.218 conectou.
+2010-03-10T14:06:37: Cliente com sessão bv2RfWbjXyTEbc2YBI5XSvfOxVIzNQN0Xe995fynYM4nrDdG desconectou.
+2010-03-10T14:06:37: Thread Finalizada.
+2010-03-10T14:06:39: Thread disparada...
+2010-03-10T14:06:42: Usuário denison1123132 com sessão dYlERNgsjY3AUbcnCawYfxaDsuXqIAxlJRrCxeQ3J5kSJCn6 e ip 201.47.240.218 conectou.
+2010-03-10T14:08:03: Cliente com sessão dYlERNgsjY3AUbcnCawYfxaDsuXqIAxlJRrCxeQ3J5kSJCn6 desconectou.
+2010-03-10T14:08:03: Thread Finalizada.
+2010-03-10T14:08:12: Thread disparada...
+2010-03-10T14:08:19: Usuário denison1 com sessão Pwo5qAez0j34niDVz9scZAHtxSqBeu2YxupgJqiWwTKo7N3F e ip 201.47.240.218 conectou.
+2010-03-10T14:08:21: Cliente com sessão Pwo5qAez0j34niDVz9scZAHtxSqBeu2YxupgJqiWwTKo7N3F desconectou.
+2010-03-10T14:08:21: Thread Finalizada.
+2010-03-10T14:08:22: Thread disparada...
+2010-03-10T14:08:28: Usuário denison1 com sessão yOuG8W19uYPde4x5BfevZhmWhhqwEszb6liyjZqTRehH7iSx e ip 201.47.240.218 conectou.
+2010-03-10T14:08:35: Cliente com sessão yOuG8W19uYPde4x5BfevZhmWhhqwEszb6liyjZqTRehH7iSx desconectou.
+2010-03-10T14:08:35: Thread Finalizada.
+2010-03-10T14:08:36: Thread disparada...
+2010-03-10T14:10:00: Usuário denison1 com sessão QldQqdDVnwbQp6tTlLi9FnmnLT4aDdvj3nlObokonepoSf48 e ip 201.47.240.218 conectou.
+2010-03-10T14:10:10: Cliente com sessão QldQqdDVnwbQp6tTlLi9FnmnLT4aDdvj3nlObokonepoSf48 desconectou.
+2010-03-10T14:10:10: Thread Finalizada.
+2010-03-10T14:10:13: Thread disparada...
+2010-03-10T14:10:18: Usuário denison1asdfasdfasdf com sessão mexpoxnsvm4AmmZtPkcc913eHILhMtg93hb2JSkpWhKd1J1b e ip 201.47.240.218 conectou.
+2010-03-10T14:10:21: Cliente com sessão mexpoxnsvm4AmmZtPkcc913eHILhMtg93hb2JSkpWhKd1J1b desconectou.
+2010-03-10T14:10:21: Thread Finalizada.
+2010-03-10T14:10:37: Thread disparada...
+2010-03-10T14:10:39: Usuário denison1asdfasdfasdf com sessão P4TSVJ93IjcJbIpwUtUTQQp6TKdGo7p0xgjsSPypTnIOybyF e ip 201.47.240.218 conectou.
+2010-03-10T14:10:43: Cliente com sessão P4TSVJ93IjcJbIpwUtUTQQp6TKdGo7p0xgjsSPypTnIOybyF desconectou.
+2010-03-10T14:10:43: Thread Finalizada.
+2010-03-10T14:10:45: Thread disparada...
+2010-03-10T14:10:48: Usuário denison1asdfasdfasdf com sessão z64q4iBPcjRrrFMSSxPsajqgtGcJ2ER8xDTwTqLrKxpobzQg e ip 201.47.240.218 conectou.
+2010-03-10T14:10:49: Cliente com sessão z64q4iBPcjRrrFMSSxPsajqgtGcJ2ER8xDTwTqLrKxpobzQg desconectou.
+2010-03-10T14:10:49: Thread Finalizada.
+2010-03-10T14:10:50: Thread disparada...
+2010-03-10T14:10:52: Usuário denison1asdfasdfasdf com sessão NBgYCSTaDvyz6nWTszQhY5fszRV5mnjIdfs5uORMYvuyJdn0 e ip 201.47.240.218 conectou.
+2010-03-10T14:10:56: Cliente com sessão NBgYCSTaDvyz6nWTszQhY5fszRV5mnjIdfs5uORMYvuyJdn0 desconectou.
+2010-03-10T14:10:56: Thread Finalizada.
+2010-03-10T14:11:12: Thread disparada...
+2010-03-10T14:11:17: Cliente com sessão Bgo34qVC1cLjpOLcD6wE3ckB5x6m1noHMVB3VHUNJMprXdiP desconectou.
+2010-03-10T14:11:17: Thread Finalizada.
+2010-03-10T14:11:20: Thread disparada...
+2010-03-10T14:11:25: Cliente com sessão bAUpnpmXU6s8pz0Au5Ap6FDoKTbEtdlBm0EIz1nEQOgGAB8P desconectou.
+2010-03-10T14:11:25: Thread Finalizada.
+2010-03-10T14:11:29: Thread disparada...
+2010-03-10T14:11:43: Usuário denison com sessão K2bYtnAkUISXCeAJGA4aKLTO8reyf0wy7uwYBBCDF0IDyC61 e ip 201.47.240.218 conectou.
+2010-03-10T14:11:46: Cliente com sessão K2bYtnAkUISXCeAJGA4aKLTO8reyf0wy7uwYBBCDF0IDyC61 desconectou.
+2010-03-10T14:11:46: Thread Finalizada.
+2010-03-10T14:11:47: Thread disparada...
+2010-03-10T14:11:53: Usuário denison com sessão aF0pBdNUJSzClnVmqkFd2rX7cJCB2zcJKgibnyPpicbr97ny e ip 201.47.240.218 conectou.
+2010-03-10T14:11:54: Cliente com sessão aF0pBdNUJSzClnVmqkFd2rX7cJCB2zcJKgibnyPpicbr97ny desconectou.
+2010-03-10T14:11:54: Thread Finalizada.
+2010-03-10T14:11:56: Thread disparada...
+2010-03-10T14:12:03: Cliente com sessão 3zGGj0pA5sNQTNc2zvUfabRX4B04Ijg8J4rRtT6Ndkd560QO desconectou.
+2010-03-10T14:12:03: Thread Finalizada.
+2010-03-10T14:12:05: Thread disparada...
+2010-03-10T14:12:06: Cliente com sessão CtGpH094AUqvt3u2CpZGLLG7pWUI1gitWO8wtMDgooxATl9P desconectou.
+2010-03-10T14:12:06: Thread Finalizada.
+2010-03-10T14:12:07: Thread disparada...
+2010-03-10T14:12:10: Cliente com sessão pdWOENf6gA2LeN8q4lp072Z0FrFZGkRjojz5QXxql8515rdT desconectou.
+2010-03-10T14:12:10: Thread Finalizada.
+2010-03-10T14:12:13: Thread disparada...
+2010-03-10T14:12:22: Cliente com sessão UFfVWaBTJKqTHXDqGrxf4VHhdL0mEzaiNWiaLJIMsqxNLPHt desconectou.
+2010-03-10T14:12:22: Thread Finalizada.
+2010-03-10T14:12:24: Thread disparada...
+2010-03-10T14:12:27: Usuário denison com sessão qiw14C5KtAqYmwHQPJ4RfB6iDzSHxKMOkOCf7fElfOpw9zrF e ip 201.47.240.218 conectou.
+2010-03-10T14:12:28: Cliente com sessão qiw14C5KtAqYmwHQPJ4RfB6iDzSHxKMOkOCf7fElfOpw9zrF desconectou.
+2010-03-10T14:12:28: Thread Finalizada.
+2010-03-10T14:12:30: Thread disparada...
+2010-03-10T14:12:31: Cliente com sessão mfXqnP90FKoHyUZd51acBgXKWHEZYgOe7g1cIqvTqJjZRlMl desconectou.
+2010-03-10T14:12:31: Thread Finalizada.
+2010-03-10T14:12:33: Thread disparada...
+2010-03-10T14:12:39: Cliente com sessão be3YRmag9aZfvGIThtci26GgMvSPFhfGTHH9s8TJ9vu327to desconectou.
+2010-03-10T14:12:39: Thread Finalizada.
+2010-03-10T14:12:41: Thread disparada...
+2010-03-10T14:12:43: Cliente com sessão gj1cayO2EXRcUciPTIXkGccYjV1YKvveoeawNTTHO1G730js desconectou.
+2010-03-10T14:12:43: Thread Finalizada.
+2010-03-10T14:12:44: Thread disparada...
+2010-03-10T14:12:48: Usuário denison com sessão IBjB4NLX2JI98W1nMXHK0lzTHAcQY1DZDjvPagNGJRIswvdq e ip 201.47.240.218 conectou.
+2010-03-10T14:12:51: Cliente com sessão IBjB4NLX2JI98W1nMXHK0lzTHAcQY1DZDjvPagNGJRIswvdq desconectou.
+2010-03-10T14:12:51: Thread Finalizada.
+2010-03-10T14:12:52: Thread disparada...
+2010-03-10T14:12:55: Usuário denison com sessão ZCEWOmtWJEL5RZenVnpyLXo0DM7K2sAljwjpC8x5WwSjrlMg e ip 201.47.240.218 conectou.
+2010-03-10T14:12:56: Cliente com sessão ZCEWOmtWJEL5RZenVnpyLXo0DM7K2sAljwjpC8x5WwSjrlMg desconectou.
+2010-03-10T14:12:56: Thread Finalizada.
+2010-03-10T14:12:57: Thread disparada...
+2010-03-10T14:13:05: Cliente com sessão xcFSfeeP1U8jVLRIdUgeNbsHpRaenOZequh47SHQTkmJ9Taa desconectou.
+2010-03-10T14:13:05: Thread Finalizada.
+2010-03-10T14:13:07: Thread disparada...
+2010-03-10T14:13:08: Cliente com sessão 62dx8jlwnrzaPxtS1LH4WYzNIxdvZbh3vjGKwEYmuH5SBeMD desconectou.
+2010-03-10T14:13:08: Thread Finalizada.
+2010-03-10T14:13:14: Thread disparada...
+2010-03-10T14:13:16: Cliente com sessão KYlIzHQKnPxV8JCxzfQr10dpCiQEOtqsaa49t8AGlt63vMxr desconectou.
+2010-03-10T14:13:16: Thread Finalizada.
+2010-03-10T14:13:18: Thread disparada...
+2010-03-10T14:13:49: Cliente com sessão 8PZlshlQkcEP0n98gzC9sLfRz468NBDFEwKpm94JaSn9mBxc desconectou.
+2010-03-10T14:13:49: Thread Finalizada.
+2010-03-10T14:14:12: Thread disparada...
+2010-03-10T14:15:57: Cliente com sessão TkrMJqlTIc5Q7SZHAEwRkK5wn5dcm3qjsmrRMGBlXetdYZZ6 desconectou.
+2010-03-10T14:15:57: Thread Finalizada.
+2010-03-10T14:16:00: Thread disparada...
+2010-03-10T14:16:18: Cliente com sessão MCJ15Wmg0rr7KengITC8yQ3aYDv6u5c3DhTbteQCmZhUwN6Y desconectou.
+2010-03-10T14:16:18: Thread Finalizada.
+2010-03-10T14:16:20: Thread disparada...
+2010-03-10T14:16:22: Cliente com sessão ggwirOsXEplD6lUQC1bHRrF0mQZfyNZlSgrbwNZzSw9PrcPD desconectou.
+2010-03-10T14:16:22: Thread Finalizada.
+2010-03-10T14:16:25: Thread disparada...
+2010-03-10T14:16:40: Cliente com sessão izUCLyruAeV9XwmzZjqFyqRjbXPIenPsGm8fyXE5Xth2yenK desconectou.
+2010-03-10T14:16:40: Thread Finalizada.
+2010-03-10T14:18:51: Thread disparada...
+2010-03-10T14:18:52: Cliente com sessão W2thxvdo6vZwkg0ZJacUwokV7kxyuiXbmEB58zldOzl4ct3q desconectou.
+2010-03-10T14:18:52: Thread Finalizada.
+2010-03-10T14:18:54: Thread disparada...
+2010-03-10T14:18:58: Usuário denison com sessão sXA5eGCUZmjEHblZsR2aVZmPQRFU5hG5TiAvlWigdU96CwDE e ip 201.47.240.218 conectou.
+2010-03-10T14:19:01: Cliente com sessão sXA5eGCUZmjEHblZsR2aVZmPQRFU5hG5TiAvlWigdU96CwDE desconectou.
+2010-03-10T14:19:01: Thread Finalizada.
+2010-03-10T14:19:02: Thread disparada...
+2010-03-10T14:19:43: Usuário denison com sessão nBPWPR2Cd50WAboVbec6AwLWUKwzc3yyc1MhM1GO25W7gHk5 e ip 201.47.240.218 conectou.
+2010-03-10T14:19:46: Cliente com sessão nBPWPR2Cd50WAboVbec6AwLWUKwzc3yyc1MhM1GO25W7gHk5 desconectou.
+2010-03-10T14:19:46: Thread Finalizada.
+2010-03-10T14:19:48: Thread disparada...
+2010-03-10T14:19:53: Usuário denison com sessão LMik6bapPiyOEVWTsue4DWeh742oDAwCEFkazkDDb2IsTYhF e ip 201.47.240.218 conectou.
+2010-03-10T14:19:54: Cliente com sessão LMik6bapPiyOEVWTsue4DWeh742oDAwCEFkazkDDb2IsTYhF desconectou.
+2010-03-10T14:19:54: Thread Finalizada.
+2010-03-10T14:20:03: Thread disparada...
+2010-03-10T14:20:17: Cliente com sessão 8F7f1nB8NevBaLGYrD8Q2rUeta3XbfH90OI4ftnbLLbuucs9 desconectou.
+2010-03-10T14:20:17: Thread Finalizada.
+2010-03-10T14:30:34: Thread disparada...
+2010-03-10T14:30:37: Usuário denison com sessão J6VdG7zu1e3cZxQqXhLQkbpG4gkFYWuIhF1hOrGaoyks9qAq e ip 201.47.240.218 conectou.
+2010-03-10T14:30:51: Cliente com sessão J6VdG7zu1e3cZxQqXhLQkbpG4gkFYWuIhF1hOrGaoyks9qAq desconectou.
+2010-03-10T14:30:51: Thread Finalizada.
+2010-03-10T14:31:20: Thread disparada...
+2010-03-10T14:31:47: Cliente com sessão uSXXAtv95570fEpgeNZcwhC8ZgjDMLwzCro92vC8zV568gUK desconectou.
+2010-03-10T14:31:47: Thread Finalizada.
+2010-03-10T14:32:35: Thread disparada...
+2010-03-10T14:32:38: Usuário denison com sessão oCg1EO3o7yC3Uk4u46GjIc8srlE2e1hWINz6GR0hJtWva2F7 e ip 201.47.240.218 conectou.
+2010-03-10T14:32:41: Cliente com sessão oCg1EO3o7yC3Uk4u46GjIc8srlE2e1hWINz6GR0hJtWva2F7 desconectou.
+2010-03-10T14:32:41: Thread Finalizada.
+2010-03-10T14:32:43: Thread disparada...
+2010-03-10T14:32:45: Usuário denison com sessão hL3Fd1csJhFMdVbuo1j9M0fE0UFRxM6Qk8bEzwOTSYQimjk0 e ip 201.47.240.218 conectou.
+2010-03-10T14:32:47: Cliente com sessão hL3Fd1csJhFMdVbuo1j9M0fE0UFRxM6Qk8bEzwOTSYQimjk0 desconectou.
+2010-03-10T14:32:47: Thread Finalizada.
+2010-03-10T14:39:25: Thread disparada...
+2010-03-10T14:39:31: Cliente com sessão YiOTbzxf5GUHjabyR3rsZs8LvZlK4M4aBx1XrzE4R9XgBLAj desconectou.
+2010-03-10T14:39:31: Thread Finalizada.
+2010-03-10T14:45:19: Thread disparada...
+2010-03-10T14:45:20: Usuário denison com sessão R6ypqUMyNPMTistJSjnpDHlLzXKVTs2UUBEwag2fTgx2jOS8 e ip 201.47.240.218 conectou.
+2010-03-10T14:45:25: Cliente com sessão R6ypqUMyNPMTistJSjnpDHlLzXKVTs2UUBEwag2fTgx2jOS8 desconectou.
+2010-03-10T14:45:25: Thread Finalizada.
+2010-03-10T14:45:39: Thread disparada...
+2010-03-10T14:45:40: Usuário denison com sessão bS6v1u8E9JvByBOPME23mbT6OySzqlLKL0PVz0slMkYAqxIu e ip 201.47.240.218 conectou.
+2010-03-10T14:45:52: Cliente com sessão bS6v1u8E9JvByBOPME23mbT6OySzqlLKL0PVz0slMkYAqxIu desconectou.
+2010-03-10T14:45:52: Thread Finalizada.
+2010-03-10T14:45:53: Thread disparada...
+2010-03-10T14:45:53: Usuário denison com sessão G6ybgUMDpKts8V5YSEqnT2vOZ742S5BIV6igrNLLWjRlrs2E e ip 201.47.240.218 conectou.
+2010-03-10T14:47:00: Cliente com sessão G6ybgUMDpKts8V5YSEqnT2vOZ742S5BIV6igrNLLWjRlrs2E desconectou.
+2010-03-10T14:47:00: Thread Finalizada.
+2010-03-10T14:57:03: Thread disparada...
+2010-03-10T14:57:03: Usuário denison com sessão DPBc9Z4lFcRx19Pfry6K7yP6gcOr6KXeSmKrSRzUPwI9yTAy e ip 201.47.240.218 conectou.
+2010-03-10T14:57:07: Cliente com sessão DPBc9Z4lFcRx19Pfry6K7yP6gcOr6KXeSmKrSRzUPwI9yTAy desconectou.
+2010-03-10T14:57:07: Thread Finalizada.
+2010-03-10T14:57:12: Thread disparada...
+2010-03-10T14:57:15: Usuário denison com sessão cTck1CwRXLhS9zCOQ2L079IPWAwv0YczdEsEuAEgsozM7jdP e ip 201.47.240.218 conectou.
+2010-03-10T14:57:19: Cliente com sessão cTck1CwRXLhS9zCOQ2L079IPWAwv0YczdEsEuAEgsozM7jdP desconectou.
+2010-03-10T14:57:19: Thread Finalizada.
+2010-03-10T14:57:24: Thread disparada...
+2010-03-10T14:57:24: Usuário denison com sessão 0nP75PRC7Ol96ZjICtBarBvvTHS0s8GSVhMo6eoRjdpJVTRK e ip 201.47.240.218 conectou.
+2010-03-10T14:57:27: Cliente com sessão 0nP75PRC7Ol96ZjICtBarBvvTHS0s8GSVhMo6eoRjdpJVTRK desconectou.
+2010-03-10T14:57:27: Thread Finalizada.
+2010-03-10T14:57:28: Thread disparada...
+2010-03-10T14:57:30: Usuário denison com sessão CVNjHmbbb00t1OxdIlfmfz7zwNpRjr0Lyc1hmfDU5h87TXRq e ip 201.47.240.218 conectou.
+2010-03-10T14:57:34: Cliente com sessão CVNjHmbbb00t1OxdIlfmfz7zwNpRjr0Lyc1hmfDU5h87TXRq desconectou.
+2010-03-10T14:57:34: Thread Finalizada.
+2010-03-10T14:57:44: Thread disparada...
+2010-03-10T14:57:50: Usuário denison com sessão lWRK3GYzlWa8118vvDK2lI5iFzzKqCqKlOwoHzeyIT68QTuS e ip 201.47.240.218 conectou.
+2010-03-10T14:58:20: Cliente com sessão lWRK3GYzlWa8118vvDK2lI5iFzzKqCqKlOwoHzeyIT68QTuS desconectou.
+2010-03-10T14:58:20: Thread Finalizada.
+2010-03-10T14:58:22: Thread disparada...
+2010-03-10T14:58:28: Usuário denison com sessão QDatOmSAuXtF5k9BiKYCePJodayfFUkhu0nW6Sx8wsHCqmKJ e ip 201.47.240.218 conectou.
+2010-03-10T14:58:31: Cliente com sessão QDatOmSAuXtF5k9BiKYCePJodayfFUkhu0nW6Sx8wsHCqmKJ desconectou.
+2010-03-10T14:58:31: Thread Finalizada.
+2010-03-10T14:58:37: Thread disparada...
+2010-03-10T14:58:37: Usuário  com sessão 4fJyERNdP7ycXR1hIRWC5M6gC0D5628uCjPGKG2yjoUO9y0s e ip 201.47.240.218 conectou.
+2010-03-10T14:58:44: Cliente com sessão 4fJyERNdP7ycXR1hIRWC5M6gC0D5628uCjPGKG2yjoUO9y0s desconectou.
+2010-03-10T14:58:44: Thread Finalizada.
+2010-03-10T14:58:48: Thread disparada...
+2010-03-10T14:58:54: Cliente com sessão YJWLoFHjaQPsZWH3dnfj4fu9FOY1gQHwbqhP0YI0TWjaiPJd desconectou.
+2010-03-10T14:58:54: Thread Finalizada.
+2010-03-10T14:59:04: Thread disparada...
+2010-03-10T14:59:04: Usuário  com sessão HaUcHExI6UMZ0oQRvl4R9Pp7ojhNo4lM8kWndB5QUgijisKk e ip 201.47.240.218 conectou.
+2010-03-10T14:59:26: Cliente com sessão HaUcHExI6UMZ0oQRvl4R9Pp7ojhNo4lM8kWndB5QUgijisKk desconectou.
+2010-03-10T14:59:26: Thread Finalizada.
+2010-03-10T14:59:33: Thread disparada...
+2010-03-10T14:59:47: Usuário  com sessão YgJZ0BSQWoPRK8vGDRU8TVYoaZ6jjZn4vGiSbv9B25B25q4F e ip 201.47.240.218 conectou.
+2010-03-10T15:00:19: Cliente com sessão YgJZ0BSQWoPRK8vGDRU8TVYoaZ6jjZn4vGiSbv9B25B25q4F desconectou.
+2010-03-10T15:00:19: Thread Finalizada.
+2010-03-10T15:00:30: Thread disparada...
+2010-03-10T15:00:33: Usuário  com sessão WkmeUp38c8atCW0xdWjSDNHQqlw47iMyagOPZVaqHLw7455F e ip 201.47.240.218 conectou.
+2010-03-10T15:00:39: Cliente com sessão WkmeUp38c8atCW0xdWjSDNHQqlw47iMyagOPZVaqHLw7455F desconectou.
+2010-03-10T15:00:39: Thread Finalizada.
+2010-03-10T15:00:42: Thread disparada...
+2010-03-10T15:00:44: Cliente com sessão gUSLQW4VPYiSDwozRG0XR6ckqb3s0IVA677cXUACDbEhxRM8 desconectou.
+2010-03-10T15:00:44: Thread Finalizada.
+2010-03-10T15:01:24: Thread disparada...
+2010-03-10T15:01:25: Usuário  com sessão hPvHYtUS1mPjzQ6BUpaF9g5WnTLQDmocr13v5rQv7DiKEuAC e ip 201.47.240.218 conectou.
+2010-03-10T15:01:26: Cliente com sessão hPvHYtUS1mPjzQ6BUpaF9g5WnTLQDmocr13v5rQv7DiKEuAC desconectou.
+2010-03-10T15:01:26: Thread Finalizada.
+2010-03-10T15:01:31: Thread disparada...
+2010-03-10T15:01:40: Cliente com sessão wVNq59HoBEzH2nMu4QVqZc2Qs9ErERLrXy94UfWHstqWrV8s desconectou.
+2010-03-10T15:01:40: Thread Finalizada.
+2010-03-10T15:02:38: Thread disparada...
+2010-03-10T15:02:45: Usuário  com sessão QTV2Dapb7qRcjpA9NzABjh2xTN9Um45gXNuzZoAqgxuyGhZv e ip 201.47.240.218 conectou.
+2010-03-10T15:02:53: Cliente com sessão QTV2Dapb7qRcjpA9NzABjh2xTN9Um45gXNuzZoAqgxuyGhZv desconectou.
+2010-03-10T15:02:53: Thread Finalizada.
+2010-03-10T15:02:58: Thread disparada...
+2010-03-10T15:03:04: Cliente com sessão eIuzUvQf2cn5hzbpYqCqP7PwMdMs6krrwZtP8E8dexsHnnR7 desconectou.
+2010-03-10T15:03:04: Thread Finalizada.
+2010-03-10T15:03:11: Thread disparada...
+2010-03-10T15:03:15: Cliente com sessão dZ3nlwfTWwBMIWGPRytvND3pPjX9VsnER7D6Tz2tVQMWB8Pu desconectou.
+2010-03-10T15:03:15: Thread Finalizada.
+2010-03-10T15:03:40: Thread disparada...
+2010-03-10T15:03:54: Cliente com sessão K3i4f8S6wAcr3Dg8B6Aca8yPi63WoyEUmOs2BWTctW54q52c desconectou.
+2010-03-10T15:03:54: Thread Finalizada.
+2010-03-10T15:03:58: Thread disparada...
+2010-03-10T15:04:01: Cliente com sessão W1RGy0pdWtYeY9Bd3SWTQ2CrPwYeArDphLE2EMLRMClDXwz9 desconectou.
+2010-03-10T15:04:01: Thread Finalizada.
+2010-03-10T15:04:09: Thread disparada...
+2010-03-10T15:04:18: Usuário  com sessão oEuie4099ZlvzDQFRUOYED8aeOIecnpdp5xdJlkdmycM5Tle e ip 201.47.240.218 conectou.
+2010-03-10T15:11:50: Cliente com sessão oEuie4099ZlvzDQFRUOYED8aeOIecnpdp5xdJlkdmycM5Tle desconectou.
+2010-03-10T15:11:50: Thread Finalizada.
+2010-03-10T15:14:50: Thread disparada...
+2010-03-10T15:14:56: Cliente com sessão 1qRSeGFcJFpxRQlZMtj9ksemXCdVTCjAfGyUpP4Qo1jgvkEj desconectou.
+2010-03-10T15:14:56: Thread Finalizada.
+2010-03-10T15:15:03: Thread disparada...
+2010-03-10T15:15:08: Usuário  com sessão fxRqTvJu8h0vRbkigzHR0GOG6xyykpaj21Pmndj9kRWsYe5b e ip 201.47.240.218 conectou.
+2010-03-10T15:15:30: Cliente com sessão fxRqTvJu8h0vRbkigzHR0GOG6xyykpaj21Pmndj9kRWsYe5b desconectou.
+2010-03-10T15:15:30: Thread Finalizada.
+2010-03-10T15:15:36: Thread disparada...
+2010-03-10T15:15:36: Usuário  com sessão roHE58SciCDbMTX1Ip8elOIxfndaAUuSzOyLGYot7MDpvgDM e ip 201.47.240.218 conectou.
+2010-03-10T15:15:47: Cliente com sessão roHE58SciCDbMTX1Ip8elOIxfndaAUuSzOyLGYot7MDpvgDM desconectou.
+2010-03-10T15:15:47: Thread Finalizada.
+2010-03-10T15:15:50: Thread disparada...
+2010-03-10T15:15:58: Usuário denison com sessão F3iEkLm798TOoynevr5oWCwJKWsXyf8pDmQqpHrExiiEPeAy e ip 201.47.240.218 conectou.
+2010-03-10T15:16:02: Cliente com sessão F3iEkLm798TOoynevr5oWCwJKWsXyf8pDmQqpHrExiiEPeAy desconectou.
+2010-03-10T15:16:02: Thread Finalizada.
+2010-03-10T15:16:06: Thread disparada...
+2010-03-10T15:16:30: Usuário denison com sessão UpSn7XCrPhmjDLAN46evtk5nuKmcWJPX3rYRWeMRNNbueIdG e ip 201.47.240.218 conectou.
+2010-03-10T15:16:37: Cliente com sessão UpSn7XCrPhmjDLAN46evtk5nuKmcWJPX3rYRWeMRNNbueIdG desconectou.
+2010-03-10T15:16:37: Thread Finalizada.
+2010-03-10T15:16:39: Thread disparada...
+2010-03-10T15:16:46: Usuário denison com sessão 93TTXRu1F9954sFi0wx50t3hIzBi5Mh2tc12Cog3NL1rCXII e ip 201.47.240.218 conectou.
+2010-03-10T15:16:47: Cliente com sessão 93TTXRu1F9954sFi0wx50t3hIzBi5Mh2tc12Cog3NL1rCXII desconectou.
+2010-03-10T15:16:47: Thread Finalizada.
+2010-03-10T15:16:53: Thread disparada...
+2010-03-10T15:16:54: Usuário denison com sessão C2Sb6GogIOzJzZxc7CAn2UeoaW9cLfZJX4Stb25EOSfWFbLm e ip 201.47.240.218 conectou.
+2010-03-10T15:18:34: Cliente com sessão C2Sb6GogIOzJzZxc7CAn2UeoaW9cLfZJX4Stb25EOSfWFbLm desconectou.
+2010-03-10T15:18:34: Thread Finalizada.
+2010-03-10T15:18:56: Thread disparada...
+2010-03-10T15:19:18: Cliente com sessão IDqUSIu1EFVBfoUhytSVbdfzHRQfqvi2K0BOBmUnC29y7HMA desconectou.
+2010-03-10T15:19:18: Thread Finalizada.
+2010-03-10T15:31:54: Thread disparada...
+2010-03-10T15:31:55: Usuário denison com sessão RndXtfIy36CgfcppfquvABGYOrnwP1LHNbLeZ02XK9W4IXpp e ip 201.47.240.218 conectou.
+2010-03-10T15:33:14: Cliente com sessão RndXtfIy36CgfcppfquvABGYOrnwP1LHNbLeZ02XK9W4IXpp desconectou.
+2010-03-10T15:33:14: Thread Finalizada.
+2010-03-10T15:35:08: Thread disparada...
+2010-03-10T15:35:08: Usuário denison com sessão mzuXcw4W9cJd3k3PFUV7WBPmHi4R5jh7ddDlYh4GSiBBGJRI e ip 201.47.240.218 conectou.
+2010-03-10T15:35:57: Cliente com sessão mzuXcw4W9cJd3k3PFUV7WBPmHi4R5jh7ddDlYh4GSiBBGJRI desconectou.
+2010-03-10T15:35:57: Thread Finalizada.
